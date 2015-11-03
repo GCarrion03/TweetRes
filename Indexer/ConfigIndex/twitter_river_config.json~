@@ -1,0 +1,15 @@
+{
+    "type" : "couchdb",
+    "couchdb" : {
+        "host" : "localhost",
+        "port" : 5984,
+        "db" : "melbourne",
+        "filter" : null
+    },
+    "index" : {
+        "index" : "melbourne-index",
+        "type" : "tweet",
+        "bulk_size" : "1000",
+        "bulk_timeout" : "10ms"
+    }
+}

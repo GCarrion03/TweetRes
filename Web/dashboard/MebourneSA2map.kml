@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="2011 IRSD - SA2" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>2011 IRSD - SA2</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle010">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f4455c7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle04">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f91e2ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle025">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f74afed</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle011">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f2700a6</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle05">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f393fbd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle02">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f2e27b3</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle06">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f4d6ad1</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle08">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f5a81db</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle03">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f83c9f7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle01">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f6798e6</color>
+		</PolyStyle>
+	</Style>
+	<ScreenOverlay>
+		<name>Legend: SA2_IRSD</name>
+		<Icon>
+			<href>files/2011_IRSD_SA2.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="25" y="25" xunits="pixels" yunits="pixels"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+	<Folder id="FeatureLayer0">
+		
+		<Placemark id="ID_00885">
+			<name>Pascoe Vale South</name>
+			<Snippet maxLines="1">
+<![CDATA[[{"lat":144.9457460000001,"lon":-37.75327699908631},{"lat":144.947269,"lon":-37.74687099908639},{"lat":144.9465630000001,"lon":-37.74678499908639},{"lat":144.9478330000001,"lon":-37.73944099908646},{"lat":144.948471,"lon":-37.73950899908645},{"lat":144.9490530000001,"lon":-37.73600799908645},{"lat":144.9287850000001,"lon":-37.73362499908647},{"lat":144.929071,"lon":-37.73528299908647},{"lat":144.9285600000001,"lon":-37.73528599908646},{"lat":144.928856,"lon":-37.73751799908644},{"lat":144.929969,"lon":-37.73818199908646},{"lat":144.929977,"lon":-37.73997799908646},{"lat":144.9316570000001,"lon":-37.74216899908642},{"lat":144.93334,"lon":-37.74235799908639},{"lat":144.9345800000001,"lon":-37.74371499908642},{"lat":144.933842,"lon":-37.74449699908638},{"lat":144.93299,"lon":-37.74532999908638},{"lat":144.928614,"lon":-37.74569699908641},{"lat":144.9283290000001,"lon":-37.7470689990864},{"lat":144.9292660000001,"lon":-37.74751299908635},{"lat":144.9273820000001,"lon":-37.74928499908636},{"lat":144.9269440000001,"lon":-37.75107199908632},{"lat":144.9457460000001,"lon":-37.75327699908631}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Pascoe Vale South</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206011109</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Pascoe Vale South</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1046</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1464</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>70</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9457460000001,-37.75327699908631,0 144.947269,-37.74687099908639,0 144.9465630000001,-37.74678499908639,0 144.9478330000001,-37.73944099908646,0 144.948471,-37.73950899908645,0 144.9490530000001,-37.73600799908645,0 144.9287850000001,-37.73362499908647,0 144.929071,-37.73528299908647,0 144.9285600000001,-37.73528599908646,0 144.928856,-37.73751799908644,0 144.929969,-37.73818199908646,0 144.929977,-37.73997799908646,0 144.9316570000001,-37.74216899908642,0 144.93334,-37.74235799908639,0 144.9345800000001,-37.74371499908642,0 144.933842,-37.74449699908638,0 144.93299,-37.74532999908638,0 144.928614,-37.74569699908641,0 144.9283290000001,-37.7470689990864,0 144.9292660000001,-37.74751299908635,0 144.9273820000001,-37.74928499908636,0 144.9269440000001,-37.75107199908632,0 144.9457460000001,-37.75327699908631,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+
+		<Placemark id="ID_00896">
+			<name>Coburg</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9490530000001,"lon": -37.73600799908645},{"lat": 144.948471,"lon": -37.73950899908645},{"lat": 144.9478330000001,"lon": -37.73944099908646},{"lat": 144.9465630000001,"lon": -37.74678499908639},{"lat": 144.947269,"lon": -37.74687099908639},{"lat": 144.9457460000001,"lon": -37.75327699908631},{"lat": 144.9538600000001,"lon": -37.75423199908634},{"lat": 144.976984,"lon": -37.7569209990863},{"lat": 144.980177,"lon": -37.75729999908629},{"lat": 144.97924,"lon": -37.7542229990863},{"lat": 144.9818170000001,"lon": -37.75210499908632},{"lat": 144.9808410000001,"lon": -37.75027099908638},{"lat": 144.9813850000001,"lon": -37.74878099908639},{"lat": 144.9801520000001,"lon": -37.74630499908641},{"lat": 144.982016,"lon": -37.74551599908642},{"lat": 144.978967,"lon": -37.7427349990864},{"lat": 144.9797860000001,"lon": -37.74275499908643},{"lat": 144.9829070000001,"lon": -37.73595599908647},{"lat": 144.970364,"lon": -37.73539599908648},{"lat": 144.967746,"lon": -37.73423299908647},{"lat": 144.949464,"lon": -37.73250599908652},{"lat": 144.9490530000001,"lon": -37.73600799908645}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Coburg</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206011108</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Coburg</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1006</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1030</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>49</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle06</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9490530000001,-37.73600799908645,0 144.948471,-37.73950899908645,0 144.9478330000001,-37.73944099908646,0 144.9465630000001,-37.74678499908639,0 144.947269,-37.74687099908639,0 144.9457460000001,-37.75327699908631,0 144.9538600000001,-37.75423199908634,0 144.976984,-37.7569209990863,0 144.980177,-37.75729999908629,0 144.97924,-37.7542229990863,0 144.9818170000001,-37.75210499908632,0 144.9808410000001,-37.75027099908638,0 144.9813850000001,-37.74878099908639,0 144.9801520000001,-37.74630499908641,0 144.982016,-37.74551599908642,0 144.978967,-37.7427349990864,0 144.9797860000001,-37.74275499908643,0 144.9829070000001,-37.73595599908647,0 144.970364,-37.73539599908648,0 144.967746,-37.73423299908647,0 144.949464,-37.73250599908652,0 144.9490530000001,-37.73600799908645,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01135">
+			<name>Essendon - Aberfeldie</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.888945,"lon":-37.76190399908623},{"lat":144.893719,"lon":-37.76573999908624},{"lat":144.8981690000001,"lon":-37.76465299908627},{"lat":144.9015800000001,"lon":-37.76539799908625},{"lat":144.9035640000001,"lon":-37.76488299908625},{"lat":144.9039670000001,"lon":-37.76337999908625},{"lat":144.9033360000001,"lon":-37.76240999908627},{"lat":144.9048360000001,"lon":-37.76259099908626},{"lat":144.903815,"lon":-37.75994299908626},{"lat":144.915976,"lon":-37.76113199908626},{"lat":144.916693,"lon":-37.76072799908625},{"lat":144.9162530000001,"lon":-37.75693699908631},{"lat":144.93381,"lon":-37.75939599908628},{"lat":144.9329670000001,"lon":-37.75862899908628},{"lat":144.934567,"lon":-37.75661199908628},{"lat":144.933621,"lon":-37.75510799908634},{"lat":144.935023,"lon":-37.75325799908629},{"lat":144.932443,"lon":-37.75256399908636},{"lat":144.930463,"lon":-37.75362899908634},{"lat":144.9293170000001,"lon":-37.75192299908633},{"lat":144.9284560000001,"lon":-37.75284699908632},{"lat":144.9274200000001,"lon":-37.75244999908637},{"lat":144.9269440000001,"lon":-37.75107199908632},{"lat":144.9273820000001,"lon":-37.74928499908636},{"lat":144.9292660000001,"lon":-37.74751299908635},{"lat":144.9283290000001,"lon":-37.7470689990864},{"lat":144.928614,"lon":-37.74569699908641},{"lat":144.93299,"lon":-37.74532999908638},{"lat":144.933842,"lon":-37.74449699908638},{"lat":144.9082030000001,"lon":-37.74131499908643},{"lat":144.9044280000001,"lon":-37.73537899908644},{"lat":144.8929470000001,"lon":-37.73458199908648},{"lat":144.8927990000001,"lon":-37.73556799908648},{"lat":144.889081,"lon":-37.75535699908634},{"lat":144.8899650000001,"lon":-37.75671499908631},{"lat":144.888945,"lon":-37.76190399908623}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Essendon - Aberfeldie</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206031114</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Essendon - Aberfeldie</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1073</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1765</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>84</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.888945,-37.76190399908623,0 144.893719,-37.76573999908624,0 144.8981690000001,-37.76465299908627,0 144.9015800000001,-37.76539799908625,0 144.9035640000001,-37.76488299908625,0 144.9039670000001,-37.76337999908625,0 144.9033360000001,-37.76240999908627,0 144.9048360000001,-37.76259099908626,0 144.903815,-37.75994299908626,0 144.915976,-37.76113199908626,0 144.916693,-37.76072799908625,0 144.9162530000001,-37.75693699908631,0 144.93381,-37.75939599908628,0 144.9329670000001,-37.75862899908628,0 144.934567,-37.75661199908628,0 144.933621,-37.75510799908634,0 144.935023,-37.75325799908629,0 144.932443,-37.75256399908636,0 144.930463,-37.75362899908634,0 144.9293170000001,-37.75192299908633,0 144.9284560000001,-37.75284699908632,0 144.9274200000001,-37.75244999908637,0 144.9269440000001,-37.75107199908632,0 144.9273820000001,-37.74928499908636,0 144.9292660000001,-37.74751299908635,0 144.9283290000001,-37.7470689990864,0 144.928614,-37.74569699908641,0 144.93299,-37.74532999908638,0 144.933842,-37.74449699908638,0 144.9082030000001,-37.74131499908643,0 144.9044280000001,-37.73537899908644,0 144.8929470000001,-37.73458199908648,0 144.8927990000001,-37.73556799908648,0 144.889081,-37.75535699908634,0 144.8899650000001,-37.75671499908631,0 144.888945,-37.76190399908623,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_00680">
+			<name>Thornbury</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":145.0170360000001,"lon":-37.76513099908625},{"lat":145.031203,"lon":-37.76663199908619},{"lat":145.030706,"lon":-37.76503399908626},{"lat":145.027828,"lon":-37.76382099908627},{"lat":145.0284210000001,"lon":-37.7614999990863},{"lat":145.02993,"lon":-37.76023699908624},{"lat":145.0291100000001,"lon":-37.75779899908628},{"lat":145.0322470000001,"lon":-37.75678799908629},{"lat":145.0313540000001,"lon":-37.75571199908629},{"lat":144.9808410000001,"lon":-37.75027099908638},{"lat":144.9818170000001,"lon":-37.75210499908632},{"lat":144.97924,"lon":-37.7542229990863},{"lat":144.980177,"lon":-37.75729999908629},{"lat":144.9879940000001,"lon":-37.75818699908626},{"lat":144.987376,"lon":-37.76143699908629},{"lat":145.0170360000001,"lon":-37.76513099908625}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Thornbury</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206021112</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Thornbury</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1020</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1179</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>57</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+145.0170360000001,-37.76513099908625,0 145.031203,-37.76663199908619,0 145.030706,-37.76503399908626,0 145.027828,-37.76382099908627,0 145.0284210000001,-37.7614999990863,0 145.02993,-37.76023699908624,0 145.0291100000001,-37.75779899908628,0 145.0322470000001,-37.75678799908629,0 145.0313540000001,-37.75571199908629,0 144.9808410000001,-37.75027099908638,0 144.9818170000001,-37.75210499908632,0 144.97924,-37.7542229990863,0 144.980177,-37.75729999908629,0 144.9879940000001,-37.75818699908626,0 144.987376,-37.76143699908629,0 145.0170360000001,-37.76513099908625,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01126">
+			<name>Moonee Ponds</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9364840000001,"lon":-37.77379099908613},{"lat":144.9383680000001,"lon":-37.77134899908619},{"lat":144.9352220000001,"lon":-37.77061799908621},{"lat":144.9378650000001,"lon":-37.76861899908623},{"lat":144.9384490000001,"lon":-37.76110399908627},{"lat":144.936421,"lon":-37.76014099908626},{"lat":144.9342300000001,"lon":-37.76055299908624},{"lat":144.93381,"lon":-37.75939599908628},{"lat":144.9162530000001,"lon":-37.75693699908631},{"lat":144.916693,"lon":-37.76072799908625},{"lat":144.915976,"lon":-37.76113199908626},{"lat":144.903815,"lon":-37.75994299908626},{"lat":144.9048360000001,"lon":-37.76259099908626},{"lat":144.9033360000001,"lon":-37.76240999908627},{"lat":144.9039670000001,"lon":-37.76337999908625},{"lat":144.9035640000001,"lon":-37.76488299908625},{"lat":144.9015800000001,"lon":-37.76539799908625},{"lat":144.9022650000001,"lon":-37.76897799908623},{"lat":144.9009520000001,"lon":-37.77002499908619},{"lat":144.9364840000001,"lon":-37.77379099908613}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Moonee Ponds</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206031116</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Moonee Ponds</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1060</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1630</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>78</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9364840000001,-37.77379099908613,0 144.9383680000001,-37.77134899908619,0 144.9352220000001,-37.77061799908621,0 144.9378650000001,-37.76861899908623,0 144.9384490000001,-37.76110399908627,0 144.936421,-37.76014099908626,0 144.9342300000001,-37.76055299908624,0 144.93381,-37.75939599908628,0 144.9162530000001,-37.75693699908631,0 144.916693,-37.76072799908625,0 144.915976,-37.76113199908626,0 144.903815,-37.75994299908626,0 144.9048360000001,-37.76259099908626,0 144.9033360000001,-37.76240999908627,0 144.9039670000001,-37.76337999908625,0 144.9035640000001,-37.76488299908625,0 144.9015800000001,-37.76539799908625,0 144.9022650000001,-37.76897799908623,0 144.9009520000001,-37.77002499908619,0 144.9364840000001,-37.77379099908613,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01706">
+			<name>Brunswick</name>
+			<Snippet maxLines="1">
+<![CDATA[[{"lat":144.960234,"lon": -37.77804399908611},{"lat":144.9705260000001,"lon": -37.77928899908613},{"lat":144.973966,"lon": -37.75870099908628},{"lat":144.976627,"lon": -37.75901199908628},{"lat":144.976984,"lon": -37.7569209990863},{"lat":144.9538600000001,"lon": -37.75423199908634},{"lat":144.9506520000001,"lon": -37.75623299908632},{"lat":144.9485360000001,"lon": -37.7699939990862},{"lat":144.9498550000001,"lon": -37.77015599908619},{"lat":144.948794,"lon": -37.77569199908616},{"lat":144.9494040000001,"lon": -37.77673799908611},{"lat":144.960234,"lon": -37.77804399908611 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Brunswick</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206011105</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Brunswick</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1036</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1358</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>65</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.960234,-37.77804399908611,0 144.9705260000001,-37.77928899908613,0 144.973966,-37.75870099908628,0 144.976627,-37.75901199908628,0 144.976984,-37.7569209990863,0 144.9538600000001,-37.75423199908634,0 144.9506520000001,-37.75623299908632,0 144.9485360000001,-37.7699939990862,0 144.9498550000001,-37.77015599908619,0 144.948794,-37.77569199908616,0 144.9494040000001,-37.77673799908611,0 144.960234,-37.77804399908611,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01055">
+			<name>Brunswick West</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9370740000001,"lon":-37.77777399908611},{"lat":144.9379570000001,"lon":-37.77789399908614},{"lat":144.9387690000001,"lon":-37.77544799908615},{"lat":144.9494040000001,"lon":-37.77673799908611},{"lat":144.948794,"lon":-37.77569199908616},{"lat":144.9498550000001,"lon":-37.77015599908619},{"lat":144.9485360000001,"lon":-37.7699939990862},{"lat":144.9506520000001,"lon":-37.75623299908632},{"lat":144.9538600000001,"lon":-37.75423199908634},{"lat":144.9457460000001,"lon":-37.75327699908631},{"lat":144.9269440000001,"lon":-37.75107199908632},{"lat":144.9274200000001,"lon":-37.75244999908637},{"lat":144.9284560000001,"lon":-37.75284699908632},{"lat":144.9293170000001,"lon":-37.75192299908633},{"lat":144.930463,"lon":-37.75362899908634},{"lat":144.932443,"lon":-37.75256399908636},{"lat":144.935023,"lon":-37.75325799908629},{"lat":144.933621,"lon":-37.75510799908634},{"lat":144.934567,"lon":-37.75661199908628},{"lat":144.9329670000001,"lon":-37.75862899908628},{"lat":144.93381,"lon":-37.75939599908628},{"lat":144.9342300000001,"lon":-37.76055299908624},{"lat":144.936421,"lon":-37.76014099908626},{"lat":144.9384490000001,"lon":-37.76110399908627},{"lat":144.9378650000001,"lon":-37.76861899908623},{"lat":144.9352220000001,"lon":-37.77061799908621},{"lat":144.9383680000001,"lon":-37.77134899908619},{"lat":144.9364840000001,"lon":-37.77379099908613},{"lat":144.9370740000001,"lon":-37.77777399908611}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Brunswick West</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206011107</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Brunswick West</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1023</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1218</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>58</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9370740000001,-37.77777399908611,0 144.9379570000001,-37.77789399908614,0 144.9387690000001,-37.77544799908615,0 144.9494040000001,-37.77673799908611,0 144.948794,-37.77569199908616,0 144.9498550000001,-37.77015599908619,0 144.9485360000001,-37.7699939990862,0 144.9506520000001,-37.75623299908632,0 144.9538600000001,-37.75423199908634,0 144.9457460000001,-37.75327699908631,0 144.9269440000001,-37.75107199908632,0 144.9274200000001,-37.75244999908637,0 144.9284560000001,-37.75284699908632,0 144.9293170000001,-37.75192299908633,0 144.930463,-37.75362899908634,0 144.932443,-37.75256399908636,0 144.935023,-37.75325799908629,0 144.933621,-37.75510799908634,0 144.934567,-37.75661199908628,0 144.9329670000001,-37.75862899908628,0 144.93381,-37.75939599908628,0 144.9342300000001,-37.76055299908624,0 144.936421,-37.76014099908626,0 144.9384490000001,-37.76110399908627,0 144.9378650000001,-37.76861899908623,0 144.9352220000001,-37.77061799908621,0 144.9383680000001,-37.77134899908619,0 144.9364840000001,-37.77379099908613,0 144.9370740000001,-37.77777399908611,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_00683">
+			<name>Brunswick East</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9705260000001,"lon":-37.77928899908613},{"lat":144.978111,"lon":-37.78020799908609},{"lat":144.979196,"lon":-37.77349699908614},{"lat":144.9868650000001,"lon":-37.77437799908618},{"lat":144.9842620000001,"lon":-37.77074599908617},{"lat":144.9844790000001,"lon":-37.76733499908623},{"lat":144.985503,"lon":-37.76601799908622},{"lat":144.983832,"lon":-37.76397999908626},{"lat":144.9814570000001,"lon":-37.76283099908628},{"lat":144.983161,"lon":-37.76156299908624},{"lat":144.980177,"lon":-37.75729999908629},{"lat":144.976984,"lon":-37.7569209990863},{"lat":144.976627,"lon":-37.75901199908628},{"lat":144.973966,"lon":-37.75870099908628},{"lat":144.9705260000001,"lon":-37.77928899908613}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Brunswick East</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206011106</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Brunswick East</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1052</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1538</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>74</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9705260000001,-37.77928899908613,0 144.978111,-37.78020799908609,0 144.979196,-37.77349699908614,0 144.9868650000001,-37.77437799908618,0 144.9842620000001,-37.77074599908617,0 144.9844790000001,-37.76733499908623,0 144.985503,-37.76601799908622,0 144.983832,-37.76397999908626,0 144.9814570000001,-37.76283099908628,0 144.983161,-37.76156299908624,0 144.980177,-37.75729999908629,0 144.976984,-37.7569209990863,0 144.976627,-37.75901199908628,0 144.973966,-37.75870099908628,0 144.9705260000001,-37.77928899908613,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01165">
+			<name>Northcote</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9955920000001,"lon":-37.78469799908608},{"lat":144.9985300000001,"lon":-37.78554399908604},{"lat":145.0023010000001,"lon":-37.78299399908607},{"lat":145.004228,"lon":-37.78436899908606},{"lat":145.014305,"lon":-37.78383399908611},{"lat":145.015204,"lon":-37.77917599908614},{"lat":145.0158540000001,"lon":-37.77877599908612},{"lat":145.0147320000001,"lon":-37.77864099908613},{"lat":145.0155610000001,"lon":-37.77400899908615},{"lat":145.016072,"lon":-37.77406699908618},{"lat":145.0177970000001,"lon":-37.76721799908625},{"lat":145.016707,"lon":-37.76710199908619},{"lat":145.0170360000001,"lon":-37.76513099908625},{"lat":144.987376,"lon":-37.76143699908629},{"lat":144.9879940000001,"lon":-37.75818699908626},{"lat":144.980177,"lon":-37.75729999908629},{"lat":144.983161,"lon":-37.76156299908624},{"lat":144.9814570000001,"lon":-37.76283099908628},{"lat":144.983832,"lon":-37.76397999908626},{"lat":144.985503,"lon":-37.76601799908622},{"lat":144.9844790000001,"lon":-37.76733499908623},{"lat":144.9842620000001,"lon":-37.77074599908617},{"lat":144.9868650000001,"lon":-37.77437799908618},{"lat":144.988592,"lon":-37.77516399908613},{"lat":144.9901050000001,"lon":-37.77965999908611},{"lat":144.9918720000001,"lon":-37.7802489990861},{"lat":144.992015,"lon":-37.78253099908611},{"lat":144.9955920000001,"lon":-37.78469799908608}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Northcote</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206021111</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Northcote</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1047</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1473</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>70</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9955920000001,-37.78469799908608,0 144.9985300000001,-37.78554399908604,0 145.0023010000001,-37.78299399908607,0 145.004228,-37.78436899908606,0 145.014305,-37.78383399908611,0 145.015204,-37.77917599908614,0 145.0158540000001,-37.77877599908612,0 145.0147320000001,-37.77864099908613,0 145.0155610000001,-37.77400899908615,0 145.016072,-37.77406699908618,0 145.0177970000001,-37.76721799908625,0 145.016707,-37.76710199908619,0 145.0170360000001,-37.76513099908625,0 144.987376,-37.76143699908629,0 144.9879940000001,-37.75818699908626,0 144.980177,-37.75729999908629,0 144.983161,-37.76156299908624,0 144.9814570000001,-37.76283099908628,0 144.983832,-37.76397999908626,0 144.985503,-37.76601799908622,0 144.9844790000001,-37.76733499908623,0 144.9842620000001,-37.77074599908617,0 144.9868650000001,-37.77437799908618,0 144.988592,-37.77516399908613,0 144.9901050000001,-37.77965999908611,0 144.9918720000001,-37.7802489990861,0 144.992015,-37.78253099908611,0 144.9955920000001,-37.78469799908608,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+
+<Placemark id="ID_01658">
+			<name>Alphington - Fairfield</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":145.014305,"lon":-37.78383399908611},{"lat":145.033938,"lon":-37.7802439990861},{"lat":145.035971,"lon":-37.77888399908614},{"lat":145.03448,"lon":-37.7789179990861},{"lat":145.035935,"lon":-37.77506499908615},{"lat":145.0340970000001,"lon":-37.77261699908616},{"lat":145.0368120000001,"lon":-37.77257099908616},{"lat":145.036836,"lon":-37.77065199908619},{"lat":145.03227,"lon":-37.77065499908618},{"lat":145.031203,"lon":-37.76663199908619},{"lat":145.0170360000001,"lon":-37.76513099908625},{"lat":145.016707,"lon":-37.76710199908619},{"lat":145.0177970000001,"lon":-37.76721799908625},{"lat":145.016072,"lon":-37.77406699908618},{"lat":145.0155610000001,"lon":-37.77400899908615},{"lat":145.0147320000001,"lon":-37.77864099908613},{"lat":145.0158540000001,"lon":-37.77877599908612},{"lat":145.015204,"lon":-37.77917599908614},{"lat":145.014305,"lon":-37.78383399908611} ]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Alphington - Fairfield</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206021110</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Alphington - Fairfield</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1066</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1691</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>81</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+145.014305,-37.78383399908611,0 145.033938,-37.7802439990861,0 145.035971,-37.77888399908614,0 145.03448,-37.7789179990861,0 145.035935,-37.77506499908615,0 145.0340970000001,-37.77261699908616,0 145.0368120000001,-37.77257099908616,0 145.036836,-37.77065199908619,0 145.03227,-37.77065499908618,0 145.031203,-37.76663199908619,0 145.0170360000001,-37.76513099908625,0 145.016707,-37.76710199908619,0 145.0177970000001,-37.76721799908625,0 145.016072,-37.77406699908618,0 145.0155610000001,-37.77400899908615,0 145.0147320000001,-37.77864099908613,0 145.0158540000001,-37.77877599908612,0 145.015204,-37.77917599908614,0 145.014305,-37.78383399908611,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01587">
+			<name>Ascot Vale</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9364840000001,"lon":-37.77379099908613},{"lat":144.9009520000001,"lon":-37.77002499908619},{"lat":144.897638,"lon":-37.7712519990862},{"lat":144.895849,"lon":-37.77325999908618},{"lat":144.8977150000001,"lon":-37.78036399908609},{"lat":144.903984,"lon":-37.78458199908609},{"lat":144.902823,"lon":-37.78901799908604},{"lat":144.9027120000001,"lon":-37.78962599908604},{"lat":144.904251,"lon":-37.78871799908601},{"lat":144.9049640000001,"lon":-37.78715499908606},{"lat":144.906335,"lon":-37.78739899908606},{"lat":144.908232,"lon":-37.78253099908612},{"lat":144.913586,"lon":-37.7793899990861},{"lat":144.9176130000001,"lon":-37.78361399908609},{"lat":144.9220320000001,"lon":-37.78371599908607},{"lat":144.922592,"lon":-37.7803569990861},{"lat":144.9264330000001,"lon":-37.78032699908611},{"lat":144.9304060000001,"lon":-37.78153199908608},{"lat":144.9323260000001,"lon":-37.78091299908611},{"lat":144.9299050000001,"lon":-37.77776899908612},{"lat":144.9300900000001,"lon":-37.77703499908617},{"lat":144.9370740000001,"lon":-37.77777399908611},{"lat":144.9364840000001,"lon":-37.77379099908613}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Ascot Vale</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206031113</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Ascot Vale</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>990</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>856</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>41</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle06</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9364840000001,-37.77379099908613,0 144.9009520000001,-37.77002499908619,0 144.897638,-37.7712519990862,0 144.895849,-37.77325999908618,0 144.8977150000001,-37.78036399908609,0 144.903984,-37.78458199908609,0 144.902823,-37.78901799908604,0 144.9027120000001,-37.78962599908604,0 144.904251,-37.78871799908601,0 144.9049640000001,-37.78715499908606,0 144.906335,-37.78739899908606,0 144.908232,-37.78253099908612,0 144.913586,-37.7793899990861,0 144.9176130000001,-37.78361399908609,0 144.9220320000001,-37.78371599908607,0 144.922592,-37.7803569990861,0 144.9264330000001,-37.78032699908611,0 144.9304060000001,-37.78153199908608,0 144.9323260000001,-37.78091299908611,0 144.9299050000001,-37.77776899908612,0 144.9300900000001,-37.77703499908617,0 144.9370740000001,-37.77777399908611,0 144.9364840000001,-37.77379099908613,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01587">
+			<name>Ascot Vale</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9364840000001,"lon":-37.77379099908613},{"lat":144.9009520000001,"lon":-37.77002499908619},{"lat":144.897638,"lon":-37.7712519990862},{"lat":144.895849,"lon":-37.77325999908618},{"lat":144.8977150000001,"lon":-37.78036399908609},{"lat":144.903984,"lon":-37.78458199908609},{"lat":144.902823,"lon":-37.78901799908604},{"lat":144.9027120000001,"lon":-37.78962599908604},{"lat":144.904251,"lon":-37.78871799908601},{"lat":144.9049640000001,"lon":-37.78715499908606},{"lat":144.906335,"lon":-37.78739899908606},{"lat":144.908232,"lon":-37.78253099908612},{"lat":144.913586,"lon":-37.7793899990861},{"lat":144.9176130000001,"lon":-37.78361399908609},{"lat":144.9220320000001,"lon":-37.78371599908607},{"lat":144.922592,"lon":-37.7803569990861},{"lat":144.9264330000001,"lon":-37.78032699908611},{"lat":144.9304060000001,"lon":-37.78153199908608},{"lat":144.9323260000001,"lon":-37.78091299908611},{"lat":144.9299050000001,"lon":-37.77776899908612},{"lat":144.9300900000001,"lon":-37.77703499908617},{"lat":144.9370740000001,"lon":-37.77777399908611},{"lat":144.9364840000001,"lon":-37.77379099908613}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Ascot Vale</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206031113</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Ascot Vale</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>990</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>856</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>41</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle06</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9364840000001,-37.77379099908613,0 144.9009520000001,-37.77002499908619,0 144.897638,-37.7712519990862,0 144.895849,-37.77325999908618,0 144.8977150000001,-37.78036399908609,0 144.903984,-37.78458199908609,0 144.902823,-37.78901799908604,0 144.9027120000001,-37.78962599908604,0 144.904251,-37.78871799908601,0 144.9049640000001,-37.78715499908606,0 144.906335,-37.78739899908606,0 144.908232,-37.78253099908612,0 144.913586,-37.7793899990861,0 144.9176130000001,-37.78361399908609,0 144.9220320000001,-37.78371599908607,0 144.922592,-37.7803569990861,0 144.9264330000001,-37.78032699908611,0 144.9304060000001,-37.78153199908608,0 144.9323260000001,-37.78091299908611,0 144.9299050000001,-37.77776899908612,0 144.9300900000001,-37.77703499908617,0 144.9370740000001,-37.77777399908611,0 144.9364840000001,-37.77379099908613,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+
+<Placemark id="ID_01733">
+			<name>Parkville</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9573280000001,"lon":-37.80155399908595},{"lat":144.9575560000001,"lon":-37.79971699908595},{"lat":144.963976,"lon":-37.80042699908596},{"lat":144.9649720000001,"lon":-37.794563999086},{"lat":144.96411,"lon":-37.79272999908604},{"lat":144.960776,"lon":-37.791593999086},{"lat":144.9587580000001,"lon":-37.78987899908603},{"lat":144.960234,"lon":-37.77804399908611},{"lat":144.9494040000001,"lon":-37.77673799908611},{"lat":144.9387690000001,"lon":-37.77544799908615},{"lat":144.9379570000001,"lon":-37.77789399908614},{"lat":144.9370740000001,"lon":-37.77777399908611},{"lat":144.9387330000001,"lon":-37.78085699908608},{"lat":144.9403620000001,"lon":-37.78761899908607},{"lat":144.9573280000001,"lon":-37.80155399908595}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Parkville</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041124</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Parkville</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1053</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1548</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>74</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9573280000001,-37.80155399908595,0 144.9575560000001,-37.79971699908595,0 144.963976,-37.80042699908596,0 144.9649720000001,-37.794563999086,0 144.96411,-37.79272999908604,0 144.960776,-37.791593999086,0 144.9587580000001,-37.78987899908603,0 144.960234,-37.77804399908611,0 144.9494040000001,-37.77673799908611,0 144.9387690000001,-37.77544799908615,0 144.9379570000001,-37.77789399908614,0 144.9370740000001,-37.77777399908611,0 144.9387330000001,-37.78085699908608,0 144.9403620000001,-37.78761899908607,0 144.9573280000001,-37.80155399908595,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_00306">
+			<name>Carlton</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9573280000001,"lon":-37.80155399908595},{"lat":144.959504,"lon":-37.80629299908588},{"lat":144.971364,"lon":-37.8077279990859},{"lat":144.9731880000001,"lon":-37.80792299908586},{"lat":144.975716,"lon":-37.79304699908602},{"lat":144.96839,"lon":-37.79225999908604},{"lat":144.9666450000001,"lon":-37.79317999908602},{"lat":144.96411,"lon":-37.79272999908604},{"lat":144.9649720000001,"lon":-37.794563999086},{"lat":144.963976,"lon":-37.80042699908596},{"lat":144.9575560000001,"lon":-37.79971699908595},{"lat":144.9573280000001,"lon":-37.80155399908595}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Carlton</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041117</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Carlton</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>939</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>381</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>19</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9573280000001,-37.80155399908595,0 144.959504,-37.80629299908588,0 144.971364,-37.8077279990859,0 144.9731880000001,-37.80792299908586,0 144.975716,-37.79304699908602,0 144.96839,-37.79225999908604,0 144.9666450000001,-37.79317999908602,0 144.96411,-37.79272999908604,0 144.9649720000001,-37.794563999086,0 144.963976,-37.80042699908596,0 144.9575560000001,-37.79971699908595,0 144.9573280000001,-37.80155399908595,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01252">
+			<name>Carlton North - Princes Hill</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.96411,"lon":-37.79272999908604},{"lat":144.9666450000001,"lon":-37.79317999908602},{"lat":144.96839,"lon":-37.79225999908604},{"lat":144.975716,"lon":-37.79304699908602},{"lat":144.978111,"lon":-37.78020799908609},{"lat":144.9705260000001,"lon":-37.77928899908613},{"lat":144.960234,"lon":-37.77804399908611},{"lat":144.9587580000001,"lon":-37.78987899908603},{"lat":144.960776,"lon":-37.791593999086},{"lat":144.96411,"lon":-37.79272999908604}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Carlton North - Princes Hill</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206071140</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Carlton North - Princes Hill</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1077</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1798</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>86</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.96411,-37.79272999908604,0 144.9666450000001,-37.79317999908602,0 144.96839,-37.79225999908604,0 144.975716,-37.79304699908602,0 144.978111,-37.78020799908609,0 144.9705260000001,-37.77928899908613,0 144.960234,-37.77804399908611,0 144.9587580000001,-37.78987899908603,0 144.960776,-37.791593999086,0 144.96411,-37.79272999908604,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+		<Placemark id="ID_01185">
+			<name>Fitzroy North</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.975716,"lon":-37.79304699908602},{"lat":144.985096,"lon":-37.79416899908602},{"lat":144.985675,"lon":-37.790808999086},{"lat":144.995668,"lon":-37.78694899908606},{"lat":144.9955920000001,"lon":-37.78469799908608},{"lat":144.992015,"lon":-37.78253099908611},{"lat":144.9918720000001,"lon":-37.7802489990861},{"lat":144.9901050000001,"lon":-37.77965999908611},{"lat":144.988592,"lon":-37.77516399908613},{"lat":144.9868650000001,"lon":-37.77437799908618},{"lat":144.979196,"lon":-37.77349699908614},{"lat":144.978111,"lon":-37.78020799908609},{"lat":144.975716,"lon":-37.79304699908602}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Fitzroy North</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206071143</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Fitzroy North</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1052</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1544</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>74</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.975716,-37.79304699908602,0 144.985096,-37.79416899908602,0 144.985675,-37.790808999086,0 144.995668,-37.78694899908606,0 144.9955920000001,-37.78469799908608,0 144.992015,-37.78253099908611,0 144.9918720000001,-37.7802489990861,0 144.9901050000001,-37.77965999908611,0 144.988592,-37.77516399908613,0 144.9868650000001,-37.77437799908618,0 144.979196,-37.77349699908614,0 144.978111,-37.78020799908609,0 144.975716,-37.79304699908602,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01713">
+			<name>Fitzroy</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9825530000001,"lon":-37.80892099908589},{"lat":144.985096,"lon":-37.79416899908602},{"lat":144.975716,"lon":-37.79304699908602},{"lat":144.9731880000001,"lon":-37.80792299908586},{"lat":144.9825530000001,"lon":-37.80892099908589}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Fitzroy</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206071142</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Fitzroy</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>949</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>461</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>22</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle05</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9825530000001,-37.80892099908589,0 144.985096,-37.79416899908602,0 144.975716,-37.79304699908602,0 144.9731880000001,-37.80792299908586,0 144.9825530000001,-37.80892099908589,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01121">
+			<name>Collingwood</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9825530000001,"lon":-37.80892099908589},{"lat":144.991351,"lon":-37.80973099908589},{"lat":144.9936,"lon":-37.79605399908598},{"lat":144.9902840000001,"lon":-37.79472799908598},{"lat":144.985096,"lon":-37.79416899908602},{"lat":144.9825530000001,"lon":-37.80892099908589 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Collingwood</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206071141</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Collingwood</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>894</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>159</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>8</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9825530000001,-37.80892099908589,0 144.991351,-37.80973099908589,0 144.9936,-37.79605399908598,0 144.9902840000001,-37.79472799908598,0 144.985096,-37.79416899908602,0 144.9825530000001,-37.80892099908589,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+<Placemark id="ID_01137">
+			<name>Abbotsford</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9936,"lon":-37.79605399908598},{"lat":144.991351,"lon":-37.80973099908589},{"lat":145.0154070000001,"lon":-37.81214499908585},{"lat":145.0155050000001,"lon":-37.81050399908586},{"lat":145.0093820000001,"lon":-37.81040099908589},{"lat":145.0089640000001,"lon":-37.8079959990859},{"lat":145.0080690000001,"lon":-37.80740799908592},{"lat":145.0007910000001,"lon":-37.80721899908588},{"lat":144.9999640000001,"lon":-37.80659999908591},{"lat":144.9992840000001,"lon":-37.80521799908588},{"lat":145.0001500000001,"lon":-37.80428899908591},{"lat":145.004589,"lon":-37.80534199908592},{"lat":145.0076670000001,"lon":-37.80390399908592},{"lat":145.0072700000001,"lon":-37.80297799908593},{"lat":144.9993890000001,"lon":-37.79765899908599},{"lat":144.999501,"lon":-37.79700399908595},{"lat":145.0019450000001,"lon":-37.79665899908596},{"lat":145.001293,"lon":-37.79559799908598},{"lat":144.9976290000001,"lon":-37.79642199908601},{"lat":144.9936,"lon":-37.79605399908598  }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Abbotsford</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206071139</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Abbotsford</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1054</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1556</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>74</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9936,-37.79605399908598,0 144.991351,-37.80973099908589,0 145.0154070000001,-37.81214499908585,0 145.0155050000001,-37.81050399908586,0 145.0093820000001,-37.81040099908589,0 145.0089640000001,-37.8079959990859,0 145.0080690000001,-37.80740799908592,0 145.0007910000001,-37.80721899908588,0 144.9999640000001,-37.80659999908591,0 144.9992840000001,-37.80521799908588,0 145.0001500000001,-37.80428899908591,0 145.004589,-37.80534199908592,0 145.0076670000001,-37.80390399908592,0 145.0072700000001,-37.80297799908593,0 144.9993890000001,-37.79765899908599,0 144.999501,-37.79700399908595,0 145.0019450000001,-37.79665899908596,0 145.001293,-37.79559799908598,0 144.9976290000001,-37.79642199908601,0 144.9936,-37.79605399908598,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+		<Placemark id="ID_01324">
+			<name>Flemington</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9176130000001,"lon":-37.78361399908609},{"lat":144.9213090000001,"lon":-37.78745899908608},{"lat":144.9378310000001,"lon":-37.78894099908602},{"lat":144.9403620000001,"lon":-37.78761899908607},{"lat":144.9387330000001,"lon":-37.78085699908608},{"lat":144.9370740000001,"lon":-37.77777399908611},{"lat":144.9300900000001,"lon":-37.77703499908617},{"lat":144.9299050000001,"lon":-37.77776899908612},{"lat":144.9323260000001,"lon":-37.78091299908611},{"lat":144.9304060000001,"lon":-37.78153199908608},{"lat":144.9264330000001,"lon":-37.78032699908611},{"lat":144.922592,"lon":-37.7803569990861},{"lat":144.9220320000001,"lon":-37.78371599908607},{"lat":144.9176130000001,"lon":-37.78361399908609}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Flemington</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206031115</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Flemington</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>886</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>138</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>7</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9176130000001,-37.78361399908609,0 144.9213090000001,-37.78745899908608,0 144.9378310000001,-37.78894099908602,0 144.9403620000001,-37.78761899908607,0 144.9387330000001,-37.78085699908608,0 144.9370740000001,-37.77777399908611,0 144.9300900000001,-37.77703499908617,0 144.9299050000001,-37.77776899908612,0 144.9323260000001,-37.78091299908611,0 144.9304060000001,-37.78153199908608,0 144.9264330000001,-37.78032699908611,0 144.922592,-37.7803569990861,0 144.9220320000001,-37.78371599908607,0 144.9176130000001,-37.78361399908609,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+
+		<Placemark id="ID_01330">
+			<name>Kensington</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9359030000001,"lon":-37.80228599908593},{"lat":144.9363820000001,"lon":-37.79869299908599},{"lat":144.935689,"lon":-37.79506999908601},{"lat":144.9364430000001,"lon":-37.79101999908604},{"lat":144.9378310000001,"lon":-37.78894099908602},{"lat":144.9213090000001,"lon":-37.78745899908608},{"lat":144.9229220000001,"lon":-37.78914799908606},{"lat":144.9129240000001,"lon":-37.79516099908602},{"lat":144.9164930000001,"lon":-37.79821399908596},{"lat":144.9271930000001,"lon":-37.79965799908593},{"lat":144.9359030000001,"lon":-37.80228599908593 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Kensington</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041121</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Kensington</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1042</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1433</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>69</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9359030000001,-37.80228599908593,0 144.9363820000001,-37.79869299908599,0 144.935689,-37.79506999908601,0 144.9364430000001,-37.79101999908604,0 144.9378310000001,-37.78894099908602,0 144.9213090000001,-37.78745899908608,0 144.9229220000001,-37.78914799908606,0 144.9129240000001,-37.79516099908602,0 144.9164930000001,-37.79821399908596,0 144.9271930000001,-37.79965799908593,0 144.9359030000001,-37.80228599908593,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+		<Placemark id="ID_01924">
+			<name>North Melbourne</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9573280000001,"lon":-37.80155399908595},{"lat":144.9403620000001,"lon":-37.78761899908607},{"lat":144.9378310000001,"lon":-37.78894099908602},{"lat":144.9364430000001,"lon":-37.79101999908604},{"lat":144.935689,"lon":-37.79506999908601},{"lat":144.9363820000001,"lon":-37.79869299908599},{"lat":144.9359030000001,"lon":-37.80228599908593},{"lat":144.9410360000001,"lon":-37.80538599908592},{"lat":144.9460220000001,"lon":-37.81164199908587},{"lat":144.9478230000001,"lon":-37.81095599908586},{"lat":144.950329,"lon":-37.81347999908581},{"lat":144.9514350000001,"lon":-37.81316699908582},{"lat":144.956447,"lon":-37.81175499908588},{"lat":144.9553930000001,"lon":-37.80948699908587},{"lat":144.9559880000001,"lon":-37.80587799908593},{"lat":144.959504,"lon":-37.80629299908588},{"lat":144.9573280000001,"lon":-37.80155399908595 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for North Melbourne</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041123</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>North Melbourne</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>983</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>775</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>37</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9573280000001,-37.80155399908595,0 144.9403620000001,-37.78761899908607,0 144.9378310000001,-37.78894099908602,0 144.9364430000001,-37.79101999908604,0 144.935689,-37.79506999908601,0 144.9363820000001,-37.79869299908599,0 144.9359030000001,-37.80228599908593,0 144.9410360000001,-37.80538599908592,0 144.9460220000001,-37.81164199908587,0 144.9478230000001,-37.81095599908586,0 144.950329,-37.81347999908581,0 144.9514350000001,-37.81316699908582,0 144.956447,-37.81175499908588,0 144.9553930000001,-37.80948699908587,0 144.9559880000001,-37.80587799908593,0 144.959504,-37.80629299908588,0 144.9573280000001,-37.80155399908595,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+		<Placemark id="ID_00601">
+			<name>East Melbourne</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.98792,"lon":-37.82967199908568},{"lat":144.98793,"lon":-37.8296219990857},{"lat":144.991351,"lon":-37.80973099908589},{"lat":144.9825530000001,"lon":-37.80892099908589},{"lat":144.9731880000001,"lon":-37.80792299908586},{"lat":144.971364,"lon":-37.8077279990859},{"lat":144.974867,"lon":-37.81528999908584},{"lat":144.96744,"lon":-37.81745299908582},{"lat":144.968252,"lon":-37.81922399908577},{"lat":144.973103,"lon":-37.81982999908576},{"lat":144.9800690000001,"lon":-37.82610199908574},{"lat":144.985774,"lon":-37.82788699908571},{"lat":144.98792,"lon":-37.82967199908568}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for East Melbourne</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041119</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>East Melbourne</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1117</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>2065</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>99</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.98792,-37.82967199908568,0 144.98793,-37.8296219990857,0 144.991351,-37.80973099908589,0 144.9825530000001,-37.80892099908589,0 144.9731880000001,-37.80792299908586,0 144.971364,-37.8077279990859,0 144.974867,-37.81528999908584,0 144.96744,-37.81745299908582,0 144.968252,-37.81922399908577,0 144.973103,-37.81982999908576,0 144.9800690000001,-37.82610199908574,0 144.985774,-37.82788699908571,0 144.98792,-37.82967199908568,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00471">
+			<name>Melbourne</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9559870000001,"lon":-37.82305299908574},{"lat":144.9613830000001,"lon":-37.8205139990858},{"lat":144.968252,"lon":-37.81922399908577},{"lat":144.96744,"lon":-37.81745299908582},{"lat":144.974867,"lon":-37.81528999908584},{"lat":144.971364,"lon":-37.8077279990859},{"lat":144.959504,"lon":-37.80629299908588},{"lat":144.9559880000001,"lon":-37.80587799908593},{"lat":144.9553930000001,"lon":-37.80948699908587},{"lat":144.956447,"lon":-37.81175499908588},{"lat":144.9514350000001,"lon":-37.81316699908582},{"lat":144.9559870000001,"lon":-37.82305299908574}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Melbourne</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041122</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Melbourne</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1002</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>976</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>47</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle06</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9559870000001,-37.82305299908574,0 144.9613830000001,-37.8205139990858,0 144.968252,-37.81922399908577,0 144.96744,-37.81745299908582,0 144.974867,-37.81528999908584,0 144.971364,-37.8077279990859,0 144.959504,-37.80629299908588,0 144.9559880000001,-37.80587799908593,0 144.9553930000001,-37.80948699908587,0 144.956447,-37.81175499908588,0 144.9514350000001,-37.81316699908582,0 144.9559870000001,-37.82305299908574,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_01786">
+			<name>Richmond (Vic.)</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.98793,"lon":-37.8296219990857},{"lat": 144.9911430000001,"lon":-37.8330519990857},{"lat": 144.9964230000001,"lon":-37.83427899908566},{"lat": 145.0006890000001,"lon":-37.83346399908569},{"lat": 145.003675,"lon":-37.83448899908565},{"lat": 145.0042500000001,"lon":-37.83395299908569},{"lat": 145.00395,"lon":-37.83144599908568},{"lat": 145.006442,"lon":-37.8315759990857},{"lat": 145.0097060000001,"lon":-37.83352099908564},{"lat": 145.011025,"lon":-37.83128699908568},{"lat": 145.013141,"lon":-37.83053999908569},{"lat": 145.016826,"lon":-37.83225899908566},{"lat": 145.0189190000001,"lon":-37.83162399908569},{"lat": 145.0210070000001,"lon":-37.83206799908569},{"lat": 145.022911,"lon":-37.83417299908565},{"lat": 145.02439,"lon":-37.83445099908568},{"lat": 145.0283450000001,"lon":-37.8310549990857},{"lat": 145.023133,"lon":-37.8280499990857},{"lat": 145.021823,"lon":-37.82542599908575},{"lat": 145.018312,"lon":-37.82621199908574},{"lat": 145.016246,"lon":-37.82469499908574},{"lat": 145.014395,"lon":-37.81632699908583},{"lat": 145.0154070000001,"lon":-37.81214499908585}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Richmond (Vic.)</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206071144</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Richmond (Vic.)</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1018</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1159</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>56</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.98793,-37.8296219990857,0 144.9911430000001,-37.8330519990857,0 144.9964230000001,-37.83427899908566,0 145.0006890000001,-37.83346399908569,0 145.003675,-37.83448899908565,0 145.0042500000001,-37.83395299908569,0 145.00395,-37.83144599908568,0 145.006442,-37.8315759990857,0 145.0097060000001,-37.83352099908564,0 145.011025,-37.83128699908568,0 145.013141,-37.83053999908569,0 145.016826,-37.83225899908566,0 145.0189190000001,-37.83162399908569,0 145.0210070000001,-37.83206799908569,0 145.022911,-37.83417299908565,0 145.02439,-37.83445099908568,0 145.0283450000001,-37.8310549990857,0 145.023133,-37.8280499990857,0 145.021823,-37.82542599908575,0 145.018312,-37.82621199908574,0 145.016246,-37.82469499908574,0 145.014395,-37.81632699908583,0 145.0154070000001,-37.81214499908585,0 144.991351,-37.80973099908589,0 144.98793,-37.8296219990857,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00129">
+			<name>Docklands</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.937845,"lon":-37.82313099908576},{"lat":144.94731,"lon":-37.82536499908572},{"lat":144.9479520000001,"lon":-37.82530899908576},{"lat":144.947935,"lon":-37.82338799908574},{"lat":144.9533240000001,"lon":-37.82370399908573},{"lat":144.9559870000001,"lon":-37.82305299908574},{"lat":144.9514350000001,"lon":-37.81316699908582},{"lat":144.950329,"lon":-37.81347999908581},{"lat":144.9478230000001,"lon":-37.81095599908586},{"lat":144.9460220000001,"lon":-37.81164199908587},{"lat":144.942993,"lon":-37.81279999908584},{"lat":144.938493,"lon":-37.81032399908585},{"lat":144.934967,"lon":-37.80946299908588},{"lat":144.934438,"lon":-37.81267999908587},{"lat":144.932404,"lon":-37.81508999908584},{"lat":144.919894,"lon":-37.81854499908578},{"lat":144.9203710000001,"lon":-37.82003099908577},{"lat":144.9206200000001,"lon":-37.82081199908578},{"lat":144.9285470000001,"lon":-37.82117699908577},{"lat":144.937845,"lon":-37.82313099908576 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Docklands</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041118</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Docklands</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1090</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1912</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>91</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.937845,-37.82313099908576,0 144.94731,-37.82536499908572,0 144.9479520000001,-37.82530899908576,0 144.947935,-37.82338799908574,0 144.9533240000001,-37.82370399908573,0 144.9559870000001,-37.82305299908574,0 144.9514350000001,-37.81316699908582,0 144.950329,-37.81347999908581,0 144.9478230000001,-37.81095599908586,0 144.9460220000001,-37.81164199908587,0 144.942993,-37.81279999908584,0 144.938493,-37.81032399908585,0 144.934967,-37.80946299908588,0 144.934438,-37.81267999908587,0 144.932404,-37.81508999908584,0 144.919894,-37.81854499908578,0 144.9203710000001,-37.82003099908577,0 144.9206200000001,-37.82081199908578,0 144.9285470000001,-37.82117699908577,0 144.937845,-37.82313099908576,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_01348">
+			<name>Port Melbourne</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9133320000001,"lon":-37.84208299908562},{"lat":144.9185250000001,"lon":-37.8396879990856},{"lat":144.9258490000001,"lon":-37.83984499908561},{"lat":144.926912,"lon":-37.84003499908562},{"lat":144.92524,"lon":-37.8449879990856},{"lat":144.9258500000001,"lon":-37.84512499908558},{"lat":144.9271650000001,"lon":-37.8413269990856},{"lat":144.929298,"lon":-37.84163099908562},{"lat":144.931276,"lon":-37.84301699908558},{"lat":144.9298560000001,"lon":-37.84732299908554},{"lat":144.9305920000001,"lon":-37.84717099908558},{"lat":144.9318910000001,"lon":-37.84329899908562},{"lat":144.933359,"lon":-37.84383799908561},{"lat":144.9339960000001,"lon":-37.8422069990856},{"lat":144.9426960000001,"lon":-37.84609899908556},{"lat":144.9465300000001,"lon":-37.84101299908561},{"lat":144.9497570000001,"lon":-37.83409799908567},{"lat":144.9457050000001,"lon":-37.8305809990857},{"lat":144.914849,"lon":-37.83694699908567},{"lat":144.915428,"lon":-37.8395109990856},{"lat":144.9124800000001,"lon":-37.84120299908564},{"lat":144.9133320000001,"lon":-37.84208299908562 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Port Melbourne</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206051130</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Port Melbourne</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1063</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1660</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>79</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9133320000001,-37.84208299908562,0 144.9185250000001,-37.8396879990856,0 144.9258490000001,-37.83984499908561,0 144.926912,-37.84003499908562,0 144.92524,-37.8449879990856,0 144.9258500000001,-37.84512499908558,0 144.9271650000001,-37.8413269990856,0 144.929298,-37.84163099908562,0 144.931276,-37.84301699908558,0 144.9298560000001,-37.84732299908554,0 144.9305920000001,-37.84717099908558,0 144.9318910000001,-37.84329899908562,0 144.933359,-37.84383799908561,0 144.9339960000001,-37.8422069990856,0 144.9426960000001,-37.84609899908556,0 144.9465300000001,-37.84101299908561,0 144.9497570000001,-37.83409799908567,0 144.9457050000001,-37.8305809990857,0 144.914849,-37.83694699908567,0 144.915428,-37.8395109990856,0 144.9124800000001,-37.84120299908564,0 144.9133320000001,-37.84208299908562,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00897">
+			<name>Southbank</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9414300000001,"lon":-37.82581999908572},{"lat":144.957166,"lon":-37.82842699908571},{"lat":144.961854,"lon":-37.82810999908572},{"lat":144.9658450000001,"lon":-37.8314819990857},{"lat":144.9713210000001,"lon":-37.82989499908568},{"lat":144.9718,"lon":-37.83227999908566},{"lat":144.972257,"lon":-37.8328099990857},{"lat":144.9836790000001,"lon":-37.83429599908568},{"lat":144.984853,"lon":-37.82834699908575},{"lat":144.9878460000001,"lon":-37.83063299908569},{"lat":144.98792,"lon":-37.82967199908568},{"lat":144.985774,"lon":-37.82788699908571},{"lat":144.9800690000001,"lon":-37.82610199908574},{"lat":144.973103,"lon":-37.81982999908576},{"lat":144.968252,"lon":-37.81922399908577},{"lat":144.9613830000001,"lon":-37.8205139990858},{"lat":144.9559870000001,"lon":-37.82305299908574},{"lat":144.9533240000001,"lon":-37.82370399908573},{"lat":144.947935,"lon":-37.82338799908574},{"lat":144.9479520000001,"lon":-37.82530899908576},{"lat":144.94731,"lon":-37.82536499908572},{"lat":144.937845,"lon":-37.82313099908576},{"lat":144.940096,"lon":-37.82573399908576},{"lat":144.9414300000001,"lon":-37.82581999908572 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Southbank</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041126</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Southbank</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1092</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1930</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>92</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9414300000001,-37.82581999908572,0 144.957166,-37.82842699908571,0 144.961854,-37.82810999908572,0 144.9658450000001,-37.8314819990857,0 144.9713210000001,-37.82989499908568,0 144.9718,-37.83227999908566,0 144.972257,-37.8328099990857,0 144.9836790000001,-37.83429599908568,0 144.984853,-37.82834699908575,0 144.9878460000001,-37.83063299908569,0 144.98792,-37.82967199908568,0 144.985774,-37.82788699908571,0 144.9800690000001,-37.82610199908574,0 144.973103,-37.81982999908576,0 144.968252,-37.81922399908577,0 144.9613830000001,-37.8205139990858,0 144.9559870000001,-37.82305299908574,0 144.9533240000001,-37.82370399908573,0 144.947935,-37.82338799908574,0 144.9479520000001,-37.82530899908576,0 144.94731,-37.82536499908572,0 144.937845,-37.82313099908576,0 144.940096,-37.82573399908576,0 144.9414300000001,-37.82581999908572,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00481">
+			<name>Albert Park</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.96568,"lon":-37.8575069990855},{"lat":144.9682750000001,"lon":-37.85439699908552},{"lat":144.9743020000001,"lon":-37.85219199908554},{"lat":144.9756890000001,"lon":-37.8538669990855},{"lat":144.9783450000001,"lon":-37.85319699908551},{"lat":144.979049,"lon":-37.85276199908551},{"lat":144.9783510000001,"lon":-37.85073799908554},{"lat":144.9806430000001,"lon":-37.85021899908554},{"lat":144.9754300000001,"lon":-37.83596999908565},{"lat":144.972257,"lon":-37.8328099990857},{"lat":144.9718,"lon":-37.83227999908566},{"lat":144.9716910000001,"lon":-37.83426199908566},{"lat":144.969996,"lon":-37.83621999908563},{"lat":144.9631450000001,"lon":-37.8392379990856},{"lat":144.959203,"lon":-37.84216899908562},{"lat":144.956909,"lon":-37.83723699908562},{"lat":144.952402,"lon":-37.83855599908562},{"lat":144.951847,"lon":-37.83993699908561},{"lat":144.9465300000001,"lon":-37.84101299908561},{"lat":144.9426960000001,"lon":-37.84609899908556},{"lat":144.958339,"lon":-37.85297499908549},{"lat":144.96568,"lon":-37.8575069990855}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Albert Park</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206051128</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Albert Park</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1090</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1915</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>91</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.96568,-37.8575069990855,0 144.9682750000001,-37.85439699908552,0 144.9743020000001,-37.85219199908554,0 144.9756890000001,-37.8538669990855,0 144.9783450000001,-37.85319699908551,0 144.979049,-37.85276199908551,0 144.9783510000001,-37.85073799908554,0 144.9806430000001,-37.85021899908554,0 144.9754300000001,-37.83596999908565,0 144.972257,-37.8328099990857,0 144.9718,-37.83227999908566,0 144.9716910000001,-37.83426199908566,0 144.969996,-37.83621999908563,0 144.9631450000001,-37.8392379990856,0 144.959203,-37.84216899908562,0 144.956909,-37.83723699908562,0 144.952402,-37.83855599908562,0 144.951847,-37.83993699908561,0 144.9465300000001,-37.84101299908561,0 144.9426960000001,-37.84609899908556,0 144.958339,-37.85297499908549,0 144.96568,-37.8575069990855,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00350">
+			<name>St Kilda</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.96568,"lon":-37.8575069990855},{"lat":144.9703080000001,"lon":-37.86078699908543},{"lat":144.971138,"lon":-37.86325399908544},{"lat":144.970903,"lon":-37.8643669990854},{"lat":144.969681,"lon":-37.86458899908541},{"lat":144.9756070000001,"lon":-37.87026099908537},{"lat":144.9754790000001,"lon":-37.87160999908537},{"lat":144.973113,"lon":-37.87248799908536},{"lat":144.974279,"lon":-37.87350899908539},{"lat":144.974501,"lon":-37.87627499908531},{"lat":144.988784,"lon":-37.87074099908539},{"lat":144.98999,"lon":-37.87031599908539},{"lat":144.9916020000001,"lon":-37.86146399908547},{"lat":144.9926200000001,"lon":-37.86159399908544},{"lat":144.993276,"lon":-37.85790799908551},{"lat":144.989896,"lon":-37.8565379990855},{"lat":144.983322,"lon":-37.85565699908552},{"lat":144.9842020000001,"lon":-37.85066699908554},{"lat":144.9806430000001,"lon":-37.85021899908554},{"lat":144.9783510000001,"lon":-37.85073799908554},{"lat":144.979049,"lon":-37.85276199908551},{"lat":144.9783450000001,"lon":-37.85319699908551},{"lat":144.9756890000001,"lon":-37.8538669990855},{"lat":144.9743020000001,"lon":-37.85219199908554},{"lat":144.9682750000001,"lon":-37.85439699908552},{"lat":144.96568,"lon":-37.8575069990855 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for St Kilda</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206051133</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>St Kilda</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1059</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1617</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>77</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.96568,-37.8575069990855,0 144.9703080000001,-37.86078699908543,0 144.971138,-37.86325399908544,0 144.970903,-37.8643669990854,0 144.969681,-37.86458899908541,0 144.9756070000001,-37.87026099908537,0 144.9754790000001,-37.87160999908537,0 144.973113,-37.87248799908536,0 144.974279,-37.87350899908539,0 144.974501,-37.87627499908531,0 144.988784,-37.87074099908539,0 144.98999,-37.87031599908539,0 144.9916020000001,-37.86146399908547,0 144.9926200000001,-37.86159399908544,0 144.993276,-37.85790799908551,0 144.989896,-37.8565379990855,0 144.983322,-37.85565699908552,0 144.9842020000001,-37.85066699908554,0 144.9806430000001,-37.85021899908554,0 144.9783510000001,-37.85073799908554,0 144.979049,-37.85276199908551,0 144.9783450000001,-37.85319699908551,0 144.9756890000001,-37.8538669990855,0 144.9743020000001,-37.85219199908554,0 144.9682750000001,-37.85439699908552,0 144.96568,-37.8575069990855,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_01860">
+			<name>Elwood</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.988784,"lon":-37.87074099908539},{"lat":144.974501,"lon":-37.87627499908531},{"lat":144.975577,"lon":-37.87873799908532},{"lat":144.9773130000001,"lon":-37.87868399908529},{"lat":144.9757410000001,"lon":-37.87913599908528},{"lat":144.9756580000001,"lon":-37.88212099908528},{"lat":144.9812930000001,"lon":-37.88668399908526},{"lat":144.98499,"lon":-37.89100299908524},{"lat":144.990672,"lon":-37.89173699908519},{"lat":144.9922640000001,"lon":-37.88327399908526},{"lat":144.9970090000001,"lon":-37.88381399908526},{"lat":144.996745,"lon":-37.88350099908525},{"lat":144.988784,"lon":-37.87074099908539  }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Elwood</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206051129</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Elwood</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1091</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1921</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>92</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.988784,-37.87074099908539,0 144.974501,-37.87627499908531,0 144.975577,-37.87873799908532,0 144.9773130000001,-37.87868399908529,0 144.9757410000001,-37.87913599908528,0 144.9756580000001,-37.88212099908528,0 144.9812930000001,-37.88668399908526,0 144.98499,-37.89100299908524,0 144.990672,-37.89173699908519,0 144.9922640000001,-37.88327399908526,0 144.9970090000001,-37.88381399908526,0 144.996745,-37.88350099908525,0 144.988784,-37.87074099908539,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00438">
+			<name>St Kilda East</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.996745,"lon":-37.88350099908525},{"lat":144.998004,"lon":-37.87691599908534},{"lat":145.000036,"lon":-37.86645499908539},{"lat":145.0091660000001,"lon":-37.86759599908541},{"lat":145.010522,"lon":-37.86022499908549},{"lat":144.993276,"lon":-37.85790799908551},{"lat":144.9926200000001,"lon":-37.86159399908544},{"lat":144.9916020000001,"lon":-37.86146399908547},{"lat":144.98999,"lon":-37.87031599908539},{"lat":144.988784,"lon":-37.87074099908539},{"lat":144.996745,"lon":-37.88350099908525}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for St Kilda East</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206051134</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>St Kilda East</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1057</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1592</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>76</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.996745,-37.88350099908525,0 144.998004,-37.87691599908534,0 145.000036,-37.86645499908539,0 145.0091660000001,-37.86759599908541,0 145.010522,-37.86022499908549,0 144.993276,-37.85790799908551,0 144.9926200000001,-37.86159399908544,0 144.9916020000001,-37.86146399908547,0 144.98999,-37.87031599908539,0 144.988784,-37.87074099908539,0 144.996745,-37.88350099908525,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00572">
+			<name>Prahran - Windsor</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9842020000001,"lon":-37.85066699908554},{"lat":144.983322,"lon":-37.85565699908552},{"lat":144.989896,"lon":-37.8565379990855},{"lat":144.993276,"lon":-37.85790799908551},{"lat":145.010522,"lon":-37.86022499908549},{"lat":145.0123170000001,"lon":-37.84928299908558},{"lat":145.003186,"lon":-37.84810299908555},{"lat":144.9850230000001,"lon":-37.84568799908558},{"lat":144.9842020000001,"lon":-37.85066699908554}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Prahran - Windsor</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206061136</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Prahran - Windsor</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1059</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1618</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>77</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9842020000001,-37.85066699908554,0 144.983322,-37.85565699908552,0 144.989896,-37.8565379990855,0 144.993276,-37.85790799908551,0 145.010522,-37.86022499908549,0 145.0123170000001,-37.84928299908558,0 145.003186,-37.84810299908555,0 144.9850230000001,-37.84568799908558,0 144.9842020000001,-37.85066699908554,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00406">
+			<name>South Yarra - West</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9842020000001,"lon":-37.85066699908554},{"lat":144.9850230000001,"lon":-37.84568799908558},{"lat":144.9878460000001,"lon":-37.83063299908569},{"lat":144.984853,"lon":-37.82834699908575},{"lat":144.9836790000001,"lon":-37.83429599908568},{"lat":144.972257,"lon":-37.8328099990857},{"lat":144.9754300000001,"lon":-37.83596999908565},{"lat":144.9806430000001,"lon":-37.85021899908554},{"lat":144.9842020000001,"lon":-37.85066699908554 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for South Yarra - West</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206041125</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>South Yarra - West</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1110</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>2039</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>97</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9842020000001,-37.85066699908554,0 144.9850230000001,-37.84568799908558,0 144.9878460000001,-37.83063299908569,0 144.984853,-37.82834699908575,0 144.9836790000001,-37.83429599908568,0 144.972257,-37.8328099990857,0 144.9754300000001,-37.83596999908565,0 144.9806430000001,-37.85021899908554,0 144.9842020000001,-37.85066699908554,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+		<Placemark id="ID_00057">
+			<name>South Yarra - East</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9878460000001,"lon":-37.83063299908569},{"lat":144.9850230000001,"lon":-37.84568799908558},{"lat":145.003186,"lon":-37.84810299908555},{"lat":145.006442,"lon":-37.8315759990857},{"lat":145.00395,"lon":-37.83144599908568},{"lat":145.0042500000001,"lon":-37.83395299908569},{"lat":145.003675,"lon":-37.83448899908565},{"lat":145.0006890000001,"lon":-37.83346399908569},{"lat":144.9964230000001,"lon":-37.83427899908566},{"lat":144.9911430000001,"lon":-37.8330519990857},{"lat":144.98793,"lon":-37.8296219990857},{"lat":144.98792,"lon":-37.82967199908568},{"lat":144.9878460000001,"lon":-37.83063299908569 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for South Yarra - East</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206061137</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>South Yarra - East</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1056</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1572</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>75</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle025</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9878460000001,-37.83063299908569,0 144.9850230000001,-37.84568799908558,0 145.003186,-37.84810299908555,0 145.006442,-37.8315759990857,0 145.00395,-37.83144599908568,0 145.0042500000001,-37.83395299908569,0 145.003675,-37.83448899908565,0 145.0006890000001,-37.83346399908569,0 144.9964230000001,-37.83427899908566,0 144.9911430000001,-37.8330519990857,0 144.98793,-37.8296219990857,0 144.98792,-37.82967199908568,0 144.9878460000001,-37.83063299908569,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>South Melbourne</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9457050000001,"lon":-37.8305809990857},{"lat":144.9497570000001,"lon":-37.83409799908567},{"lat":144.9465300000001,"lon":-37.84101299908561},{"lat":144.951847,"lon":-37.83993699908561},{"lat":144.952402,"lon":-37.83855599908562},{"lat":144.956909,"lon":-37.83723699908562},{"lat":144.959203,"lon":-37.84216899908562},{"lat":144.9631450000001,"lon":-37.8392379990856},{"lat":144.969996,"lon":-37.83621999908563},{"lat":144.9716910000001,"lon":-37.83426199908566},{"lat":144.9718,"lon":-37.83227999908566},{"lat":144.9713210000001,"lon":-37.82989499908568},{"lat":144.9658450000001,"lon":-37.8314819990857},{"lat":144.961854,"lon":-37.82810999908572},{"lat":144.957166,"lon":-37.82842699908571},{"lat":144.9414300000001,"lon":-37.82581999908572},{"lat":144.9408120000001,"lon":-37.82635999908572},{"lat":144.9457050000001,"lon":-37.8305809990857 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for South Melbourne</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206051132</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>South Melbourne</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1027</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1253</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>60</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle08</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9457050000001,-37.8305809990857,0 144.9497570000001,-37.83409799908567,0 144.9465300000001,-37.84101299908561,0 144.951847,-37.83993699908561,0 144.952402,-37.83855599908562,0 144.956909,-37.83723699908562,0 144.959203,-37.84216899908562,0 144.9631450000001,-37.8392379990856,0 144.969996,-37.83621999908563,0 144.9716910000001,-37.83426199908566,0 144.9718,-37.83227999908566,0 144.9713210000001,-37.82989499908568,0 144.9658450000001,-37.8314819990857,0 144.961854,-37.82810999908572,0 144.957166,-37.82842699908571,0 144.9414300000001,-37.82581999908572,0 144.9408120000001,-37.82635999908572,0 144.9457050000001,-37.8305809990857,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+		<Placemark id="ID_00600">
+			<name>Toorak</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":145.02439,"lon":-37.83445099908568},{"lat":145.022911,"lon":-37.83417299908565},{"lat":145.0210070000001,"lon":-37.83206799908569},{"lat":145.0189190000001,"lon":-37.83162399908569},{"lat":145.016826,"lon":-37.83225899908566},{"lat":145.013141,"lon":-37.83053999908569},{"lat":145.011025,"lon":-37.83128699908568},{"lat":145.0097060000001,"lon":-37.83352099908564},{"lat":145.006442,"lon":-37.8315759990857},{"lat":145.003186,"lon":-37.84810299908555},{"lat":145.0123170000001,"lon":-37.84928299908558},{"lat":145.0300510000001,"lon":-37.85162599908555},{"lat":145.032685,"lon":-37.83736299908565},{"lat":145.0282080000001,"lon":-37.83782799908566},{"lat":145.02439,"lon":-37.83445099908568 }]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Toorak</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206061138</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Toorak</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1110</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>2037</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>97</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+145.02439,-37.83445099908568,0 145.022911,-37.83417299908565,0 145.0210070000001,-37.83206799908569,0 145.0189190000001,-37.83162399908569,0 145.016826,-37.83225899908566,0 145.013141,-37.83053999908569,0 145.011025,-37.83128699908568,0 145.0097060000001,-37.83352099908564,0 145.006442,-37.8315759990857,0 145.003186,-37.84810299908555,0 145.0123170000001,-37.84928299908558,0 145.0300510000001,-37.85162599908555,0 145.032685,-37.83736299908565,0 145.0282080000001,-37.83782799908566,0 145.02439,-37.83445099908568,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_01398">
+			<name>Armadale</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":145.027684,"lon":-37.86631999908539},{"lat":145.0300510000001,"lon":-37.85162599908555},{"lat":145.0123170000001,"lon":-37.84928299908558},{"lat":145.010522,"lon":-37.86022499908549},{"lat":145.0151370000001,"lon":-37.86083999908547},{"lat":145.027684,"lon":-37.86631999908539}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for Armadale</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA2 Code</td>
+<td>206061135</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA2 Name</td>
+<td>Armadale</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1091</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>1922</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>92</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+145.027684,-37.86631999908539,0 145.0300510000001,-37.85162599908555,0 145.0123170000001,-37.84928299908558,0 145.010522,-37.86022499908549,0 145.0151370000001,-37.86083999908547,0 145.027684,-37.86631999908539,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+	</Folder>
+</Document>
+</kml>

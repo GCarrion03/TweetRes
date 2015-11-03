@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="2011 IRSD - SA1" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>2011 IRSD - SA1</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle01">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f4d6ad1</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle09">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f2700a6</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle010">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f4455c7</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle011">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f5a81db</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle016">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f74afed</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle02">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f6798e6</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle03">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f393fbd</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle04">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f91e2ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle015">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f2e27b3</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle019">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4e4e4e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>3f83c9f7</color>
+		</PolyStyle>
+	</Style>
+	<ScreenOverlay>
+		<name>Legend: SA1_IRSD</name>
+		<Icon>
+			<href>files/2011_IRSD_SA1.png</href>
+		</Icon>
+		<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+		<screenXY x="25" y="25" xunits="pixels" yunits="pixels"/>
+		<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		<size x="0" y="0" xunits="pixels" yunits="pixels"/>
+	</ScreenOverlay>
+	<Folder id="FeatureLayer0">
+		<name>2011 IRSD - SA1</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_040934">
+			<name>20604112202</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.960867,-37.80924999908584},{"lat":144.9583990000001,-37.80996299908586},{"lat":144.9588940000001,-37.81103799908588},{"lat":144.9593430000001,-37.81202499908587},{"lat":144.961809,-37.81129899908584},{"lat":144.960867,-37.80924999908584}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112202</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112202</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112202</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>961</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>14660</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>28</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.960867,-37.80924999908584,0 144.9583990000001,-37.80996299908586,0 144.9588940000001,-37.81103799908588,0 144.9593430000001,-37.81202499908587,0 144.961809,-37.81129899908584,0 144.960867,-37.80924999908584,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00475">
+			<name>20604112203</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9575530000001,"lon":-37.81143099908584},{"lat":144.9588940000001,"lon":-37.81103799908588},{"lat":144.9583990000001,"lon":-37.80996299908586},{"lat":144.9570600000001,"lon":-37.81035099908586},{"lat":144.9575530000001,"lon":-37.81143099908584}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112203</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112203</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112203</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1027</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>28123</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>54</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9575530000001,-37.81143099908584,0 144.9588940000001,-37.81103799908588,0 144.9583990000001,-37.80996299908586,0 144.9570600000001,-37.81035099908586,0 144.9575530000001,-37.81143099908584,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_06947">
+			<name>20604112204</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.955945,"lon":-37.81067499908588},{"lat":144.956447,"lon":-37.81175499908588},{"lat":144.9575530000001,"lon":-37.81143099908584},{"lat":144.9570600000001,"lon":-37.81035099908586},{"lat":144.955945,"lon":-37.81067499908588}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112204</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112204</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1041</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>31590</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>61</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.955945,-37.81067499908588,0 144.956447,-37.81175499908588,0 144.9575530000001,-37.81143099908584,0 144.9570600000001,-37.81035099908586,0 144.955945,-37.81067499908588,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_03737">
+			<name>20604112206</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9559870000001,"lon":-37.82305299908574},{"lat":144.9613830000001,"lon":-37.8205139990858},{"lat":144.968252,"lon":-37.81922399908577},{"lat":144.96744,"lon":-37.81745299908582},{"lat":144.96497,"lon":-37.81817099908582},{"lat":144.962479,"lon":-37.81889599908579},{"lat":144.960017,"lon":-37.8196139990858},{"lat":144.9575180000001,"lon":-37.82027799908577},{"lat":144.9550750000001,"lon":-37.8210989990858},{"lat":144.9559870000001,"lon":-37.82305299908574}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112206</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112206</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112206</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>993</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>20363</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>39</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9559870000001,-37.82305299908574,0 144.9613830000001,-37.8205139990858,0 144.968252,-37.81922399908577,0 144.96744,-37.81745299908582,0 144.96497,-37.81817099908582,0 144.962479,-37.81889599908579,0 144.960017,-37.8196139990858,0 144.9575180000001,-37.82027799908577,0 144.9550750000001,-37.8210989990858,0 144.9559870000001,-37.82305299908574,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+<Placemark id="ID_05836">
+			<name>20604112207</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.953922,"lon":-37.81246599908583},{"lat":144.954826,"lon":-37.81442599908581},{"lat":144.959789,"lon":-37.81300399908584},{"lat":144.9593430000001,"lon":-37.81202499908587},{"lat":144.9588940000001,"lon":-37.81103799908588},{"lat":144.9575530000001,"lon":-37.81143099908584},{"lat":144.956447,"lon":-37.81175499908588},{"lat":144.953922,"lon":-37.81246599908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112207</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112207</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112207</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>975</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>16952</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.953922,-37.81246599908583,0 144.954826,-37.81442599908581,0 144.959789,-37.81300399908584,0 144.9593430000001,-37.81202499908587,0 144.9588940000001,-37.81103799908588,0 144.9575530000001,-37.81143099908584,0 144.956447,-37.81175499908588,0 144.953922,-37.81246599908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_09775">
+			<name>20604112208</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9645210000001,"lon":-37.81719799908579},{"lat":144.96497,"lon":-37.81817099908582},{"lat":144.96744,"lon":-37.81745299908582},{"lat":144.966988,"lon":-37.81648499908583},{"lat":144.9645210000001,"lon":-37.81719799908579}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112208</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112208</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112208</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>925</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>9770</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>19</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle015</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9645210000001,-37.81719799908579,0 144.96497,-37.81817099908582,0 144.96744,-37.81745299908582,0 144.966988,-37.81648499908583,0 144.9645210000001,-37.81719799908579,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_027729">
+			<name>20604112209</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.966087,"lon":-37.81451099908583},{"lat":144.963611,"lon":-37.81522699908584},{"lat":144.9645210000001,"lon":-37.81719799908579},{"lat":144.966988,"lon":-37.81648499908583},{"lat":144.966087,"lon":-37.81451099908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112209</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112209</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112209</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1026</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>27759</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>53</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.966087,-37.81451099908583,0 144.963611,-37.81522699908584,0 144.9645210000001,-37.81719799908579,0 144.966988,-37.81648499908583,0 144.966087,-37.81451099908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	<Placemark id="ID_013917">
+			<name>20604112210</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.961809,"lon":-37.81129899908584},{"lat":144.9593430000001,"lon":-37.81202499908587},{"lat":144.959789,"lon":-37.81300399908584},{"lat":144.962257,"lon":-37.81228099908584},{"lat":144.961809,"lon":-37.81129899908584}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112210</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112210</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112210</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>982</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>18108</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>35</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.961809,-37.81129899908584,0 144.9593430000001,-37.81202499908587,0 144.959789,-37.81300399908584,0 144.962257,-37.81228099908584,0 144.961809,-37.81129899908584,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_025028">
+			<name>20604112211</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.954149,"lon":-37.81906999908583},{"lat":144.956629,"lon":-37.8183569990858},{"lat":144.956178,"lon":-37.81736999908581},{"lat":144.955727,"lon":-37.81638499908579},{"lat":144.9532400000001,"lon":-37.81709199908583},{"lat":144.954149,"lon":-37.81906999908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112211</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112211</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112211</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1029</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>28428</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>55</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.954149,-37.81906999908583,0 144.956629,-37.8183569990858,0 144.956178,-37.81736999908581,0 144.955727,-37.81638499908579,0 144.9532400000001,-37.81709199908583,0 144.954149,-37.81906999908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_042342">
+			<name>20604112212</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.964732,"lon":-37.81156099908586},{"lat":144.962257,"lon":-37.81228099908584},{"lat":144.963611,"lon":-37.81522699908584},{"lat":144.966087,"lon":-37.81451099908583},{"lat":144.9685500000001,"lon":-37.81378399908586},{"lat":144.968103,"lon":-37.81280799908582},{"lat":144.967652,"lon":-37.81182299908587},{"lat":144.967202,"lon":-37.81084199908585},{"lat":144.964732,"lon":-37.81156099908586}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112212</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112212</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112212</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1001</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>21960</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>42</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.964732,-37.81156099908586,0 144.962257,-37.81228099908584,0 144.963611,-37.81522699908584,0 144.966087,-37.81451099908583,0 144.9685500000001,-37.81378399908586,0 144.968103,-37.81280799908582,0 144.967652,-37.81182299908587,0 144.967202,-37.81084199908585,0 144.964732,-37.81156099908586,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_046360">
+			<name>20604112213</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.961131,"lon":-37.81594399908583},{"lat":144.963611,"lon":-37.81522699908584},{"lat":144.962257,"lon":-37.81228099908584},{"lat":144.959789,"lon":-37.81300399908584},{"lat":144.961131,"lon":-37.81594399908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112213</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112213</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112213</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1000</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>21847</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>42</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.961131,-37.81594399908583,0 144.963611,-37.81522699908584,0 144.962257,-37.81228099908584,0 144.959789,-37.81300399908584,0 144.961131,-37.81594399908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_036378">
+			<name>20604112214</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.962479,"lon":-37.81889599908579},{"lat":144.96497,"lon":-37.81817099908582},{"lat":144.9645210000001,"lon":-37.81719799908579},{"lat":144.963611,"lon":-37.81522699908584},{"lat":144.961131,"lon":-37.81594399908583},{"lat":144.962479,"lon":-37.81889599908579}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112214</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112214</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112214</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1024</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>27253</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>52</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.962479,-37.81889599908579,0 144.96497,-37.81817099908582,0 144.9645210000001,-37.81719799908579,0 144.963611,-37.81522699908584,0 144.961131,-37.81594399908583,0 144.962479,-37.81889599908579,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_046246">
+			<name>20604112215</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.958657,"lon":-37.81665699908578},{"lat":144.960017,"lon":-37.8196139990858},{"lat":144.962479,"lon":-37.81889599908579},{"lat":144.961131,"lon":-37.81594399908583},{"lat":144.958657,"lon":-37.81665699908578}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112215</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112215</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112215</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1038</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>30877</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>59</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.958657,-37.81665699908578,0 144.960017,-37.8196139990858,0 144.962479,-37.81889599908579,0 144.961131,-37.81594399908583,0 144.958657,-37.81665699908578,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_026046">
+			<name>20604112216</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.958657,"lon":-37.81665699908578},{"lat":144.956178,"lon":-37.81736999908581},{"lat":144.956629,"lon":-37.8183569990858},{"lat":144.9575180000001,"lon":-37.82027799908577},{"lat":144.960017,"lon":-37.8196139990858},{"lat":144.958657,"lon":-37.81665699908578}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112216</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112216</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112216</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>965</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>15213</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>29</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.958657,-37.81665699908578,0 144.956178,-37.81736999908581,0 144.956629,-37.8183569990858,0 144.9575180000001,-37.82027799908577,0 144.960017,-37.8196139990858,0 144.958657,-37.81665699908578,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_041237">
+			<name>20604112217</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9550750000001,"lon":-37.8210989990858},{"lat":144.9575180000001,"lon":-37.82027799908577},{"lat":144.956629,"lon":-37.8183569990858},{"lat":144.954149,"lon":-37.81906999908583},{"lat":144.9550750000001,"lon":-37.8210989990858}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112217</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112217</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112217</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>988</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>19439</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>37</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9550750000001,-37.8210989990858,0 144.9575180000001,-37.82027799908577,0 144.956629,-37.8183569990858,0 144.954149,-37.81906999908583,0 144.9550750000001,-37.8210989990858,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_018245">
+			<name>20604112218</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.961131,"lon":-37.81594399908583},{"lat":144.959789,"lon":-37.81300399908584},{"lat":144.954826,"lon":-37.81442599908581},{"lat":144.955727,"lon":-37.81638499908579},{"lat":144.956178,"lon":-37.81736999908581},{"lat":144.958657,"lon":-37.81665699908578},{"lat":144.961131,"lon":-37.81594399908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112218</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112218</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112218</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>975</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>16910</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.961131,-37.81594399908583,0 144.959789,-37.81300399908584,0 144.954826,-37.81442599908581,0 144.955727,-37.81638499908579,0 144.956178,-37.81736999908581,0 144.958657,-37.81665699908578,0 144.961131,-37.81594399908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_031828">
+			<name>20604112219</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9532400000001,"lon":-37.81709199908583},{"lat":144.955727,"lon":-37.81638499908579},{"lat":144.954826,"lon":-37.81442599908581},{"lat":144.9523410000001,"lon":-37.81513699908584},{"lat":144.9532400000001,"lon":-37.81709199908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112219</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112219</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112219</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1006</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>23115</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>44</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9532400000001,-37.81709199908583,0 144.955727,-37.81638499908579,0 144.954826,-37.81442599908581,0 144.9523410000001,-37.81513699908584,0 144.9532400000001,-37.81709199908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_021473">
+			<name>20604112220</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.966304,"lon":-37.80888199908587},{"lat":144.9667490000001,"lon":-37.80985399908585},{"lat":144.969196,"lon":-37.80913599908587},{"lat":144.968743,"lon":-37.8081579990859},{"lat":144.970493,"lon":-37.80764799908587},{"lat":144.9709370000001,"lon":-37.80751799908586},{"lat":144.9688460000001,"lon":-37.80729399908591},{"lat":144.967344,"lon":-37.80713299908586},{"lat":144.965852,"lon":-37.80697299908587},{"lat":144.9657950000001,"lon":-37.80781099908585},{"lat":144.9667370000001,"lon":-37.80811599908588},{"lat":144.9669990000001,"lon":-37.80866699908591},{"lat":144.966304,"lon":-37.80888199908587}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112220</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112220</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112220</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>976</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>17063</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>33</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.966304,-37.80888199908587,0 144.9667490000001,-37.80985399908585,0 144.969196,-37.80913599908587,0 144.968743,-37.8081579990859,0 144.970493,-37.80764799908587,0 144.9709370000001,-37.80751799908586,0 144.9688460000001,-37.80729399908591,0 144.967344,-37.80713299908586,0 144.965852,-37.80697299908587,0 144.9657950000001,-37.80781099908585,0 144.9667370000001,-37.80811599908588,0 144.9669990000001,-37.80866699908591,0 144.966304,-37.80888199908587,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_051837">
+			<name>20604112221</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9667490000001,"lon":-37.80985399908585},{"lat":144.967202,"lon":-37.81084199908585},{"lat":144.9696560000001,"lon":-37.81012699908585},{"lat":144.969196,"lon":-37.80913599908587},{"lat":144.9667490000001,"lon":-37.80985399908585}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112221</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112221</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112221</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1091</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>44383</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>85</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle019</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9667490000001,-37.80985399908585,0 144.967202,-37.81084199908585,0 144.9696560000001,-37.81012699908585,0 144.969196,-37.80913599908587,0 144.9667490000001,-37.80985399908585,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_048849">
+			<name>20604112222</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.967202,"lon":-37.81084199908585},{"lat":144.967652,"lon":-37.81182299908587},{"lat":144.9701090000001,"lon":-37.81110399908587},{"lat":144.9696560000001,"lon":-37.81012699908585},{"lat":144.967202,"lon":-37.81084199908585}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112222</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112222</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112222</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>953</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>13482</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>26</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.967202,-37.81084199908585,0 144.967652,-37.81182299908587,0 144.9701090000001,-37.81110399908587,0 144.9696560000001,-37.81012699908585,0 144.967202,-37.81084199908585,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_01317">
+			<name>20604112223</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9701090000001,"lon":-37.81110399908587},{"lat":144.967652,"lon":-37.81182299908587},{"lat":144.968103,"lon":-37.81280799908582},{"lat":144.9705640000001,"lon":-37.81208699908582},{"lat":144.9701090000001,"lon":-37.81110399908587}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112223</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112223</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1035</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>30135</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>58</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9701090000001,-37.81110399908587,0 144.967652,-37.81182299908587,0 144.968103,-37.81280799908582,0 144.9705640000001,-37.81208699908582,0 144.9701090000001,-37.81110399908587,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_027395">
+			<name>20604112224</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.968103,"lon":-37.81280799908582},{"lat":144.9685500000001,"lon":-37.81378399908586},{"lat":144.969903,"lon":-37.81673599908582},{"lat":144.972382,"lon":-37.81600999908584},{"lat":144.9714720000001,"lon":-37.81404599908581},{"lat":144.9705640000001,"lon":-37.81208699908582},{"lat":144.968103,"lon":-37.81280799908582}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112224</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112224</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112224</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1073</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>39990</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>77</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle016</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.968103,-37.81280799908582,0 144.9685500000001,-37.81378399908586,0 144.969903,-37.81673599908582,0 144.972382,-37.81600999908584,0 144.9714720000001,-37.81404599908581,0 144.9705640000001,-37.81208699908582,0 144.968103,-37.81280799908582,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_022917">
+			<name>20604112225</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.966988,"lon":-37.81648499908583},{"lat":144.96744,"lon":-37.81745299908582},{"lat":144.969903,"lon":-37.81673599908582},{"lat":144.9685500000001,"lon":-37.81378399908586},{"lat":144.966087,"lon":-37.81451099908583},{"lat":144.966988,"lon":-37.81648499908583}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112225</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112225</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112225</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1058</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>36166</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>69</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.966988,-37.81648499908583,0 144.96744,-37.81745299908582,0 144.969903,-37.81673599908582,0 144.9685500000001,-37.81378399908586,0 144.966087,-37.81451099908583,0 144.966988,-37.81648499908583,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_07187">
+			<name>20604112226</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.964732,"lon":-37.81156099908586},{"lat":144.967202,"lon":-37.81084199908585},{"lat":144.9667490000001,"lon":-37.80985399908585},{"lat":144.964281,"lon":-37.81057399908585},{"lat":144.964732,"lon":-37.81156099908586}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112226</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112226</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112226</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1020</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>26290</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>51</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.964732,-37.81156099908586,0 144.967202,-37.81084199908585,0 144.9667490000001,-37.80985399908585,0 144.964281,-37.81057399908585,0 144.964732,-37.81156099908586,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_010341">
+			<name>20604112227</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.955945,"lon":-37.81067499908588},{"lat":144.9570600000001,"lon":-37.81035099908586},{"lat":144.9583990000001,"lon":-37.80996299908586},{"lat":144.960867,"lon":-37.80924999908584},{"lat":144.960376,"lon":-37.80818199908588},{"lat":144.962838,"lon":-37.80746499908588},{"lat":144.9648900000001,"lon":-37.80686999908591},{"lat":144.962897,"lon":-37.80665599908588},{"lat":144.959504,"lon":-37.80629299908588},{"lat":144.9559880000001,"lon":-37.80587799908593},{"lat":144.955595,"lon":-37.80827899908586},{"lat":144.955945,"lon":-37.81067499908588}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112227</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112227</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112227</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>986</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>18872</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>36</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle010</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.955945,-37.81067499908588,0 144.9570600000001,-37.81035099908586,0 144.9583990000001,-37.80996299908586,0 144.960867,-37.80924999908584,0 144.960376,-37.80818199908588,0 144.962838,-37.80746499908588,0 144.9648900000001,-37.80686999908591,0 144.962897,-37.80665599908588,0 144.959504,-37.80629299908588,0 144.9559880000001,-37.80587799908593,0 144.955595,-37.80827899908586,0 144.955945,-37.81067499908588,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_034890">
+			<name>20604112228</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.960867,"lon":-37.80924999908584},{"lat":144.963331,"lon":-37.80853499908591},{"lat":144.962838,"lon":-37.80746499908588},{"lat":144.960376,"lon":-37.80818199908588},{"lat":144.960867,"lon":-37.80924999908584}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112228</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112228</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112228</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1003</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>22482</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>43</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle01</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.960867,-37.80924999908584,0 144.963331,-37.80853499908591,0 144.962838,-37.80746499908588,0 144.960376,-37.80818199908588,0 144.960867,-37.80924999908584,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_017060">
+			<name>20604112229</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9514350000001,"lon":-37.81316699908582},{"lat":144.9523410000001,"lon":-37.81513699908584},{"lat":144.954826,"lon":-37.81442599908581},{"lat":144.953922,"lon":-37.81246599908583},{"lat":144.9514350000001,"lon":-37.81316699908582}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112229</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112229</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112229</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1027</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>28067</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>54</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9514350000001,-37.81316699908582,0 144.9523410000001,-37.81513699908584,0 144.954826,-37.81442599908581,0 144.953922,-37.81246599908583,0 144.9514350000001,-37.81316699908582,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_015358">
+			<name>20604112230</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.972382,"lon":-37.81600999908584},{"lat":144.974867,"lon":-37.81528999908584},{"lat":144.974106,"lon":-37.81364799908585},{"lat":144.9739530000001,"lon":-37.81331599908584},{"lat":144.9714720000001,"lon":-37.81404599908581},{"lat":144.972382,"lon":-37.81600999908584}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112230</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112230</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112230</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1110</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>48375</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>93</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle04</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.972382,-37.81600999908584,0 144.974867,-37.81528999908584,0 144.974106,-37.81364799908585,0 144.9739530000001,-37.81331599908584,0 144.9714720000001,-37.81404599908581,0 144.972382,-37.81600999908584,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_014196">
+			<name>20604112231</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9705640000001,"lon":-37.81208699908582},{"lat":144.9714720000001,"lon":-37.81404599908581},{"lat":144.9739530000001,"lon":-37.81331599908584},{"lat":144.9725890000001,"lon":-37.81037399908584},{"lat":144.9701090000001,"lon":-37.81110399908587},{"lat":144.9705640000001,"lon":-37.81208699908582}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112231</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112231</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112231</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1077</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>41019</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>79</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle016</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9705640000001,-37.81208699908582,0 144.9714720000001,-37.81404599908581,0 144.9739530000001,-37.81331599908584,0 144.9725890000001,-37.81037399908584,0 144.9701090000001,-37.81110399908587,0 144.9705640000001,-37.81208699908582,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00566">
+			<name>20604112232</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9701090000001,"lon":-37.81110399908587},{"lat":144.9725890000001,"lon":-37.81037399908584},{"lat":144.971678,"lon":-37.80840699908587},{"lat":144.9708900000001,"lon":-37.80863799908586},{"lat":144.969196,"lon":-37.80913599908587},{"lat":144.9696560000001,"lon":-37.81012699908585},{"lat":144.9701090000001,"lon":-37.81110399908587}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112232</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112232</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112232</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>941</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>11691</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>23</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9701090000001,-37.81110399908587,0 144.9725890000001,-37.81037399908584,0 144.971678,-37.80840699908587,0 144.9708900000001,-37.80863799908586,0 144.969196,-37.80913599908587,0 144.9696560000001,-37.81012699908585,0 144.9701090000001,-37.81110399908587,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_07374">
+			<name>20604112233</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.9708900000001,"lon":-37.80863799908586},{"lat":144.971678,"lon":-37.80840699908587},{"lat":144.971364,"lon":-37.8077279990859},{"lat":144.9709370000001,"lon":-37.80751799908586},{"lat":144.970493,"lon":-37.80764799908587},{"lat":144.9708900000001,"lon":-37.80863799908586}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112233</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112233</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112233</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1053</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>34785</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>67</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle02</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.9708900000001,-37.80863799908586,0 144.971678,-37.80840699908587,0 144.971364,-37.8077279990859,0 144.9709370000001,-37.80751799908586,0 144.970493,-37.80764799908587,0 144.9708900000001,-37.80863799908586,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_050090">
+			<name>20604112234</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.969196,"lon":-37.80913599908587},{"lat":144.9708900000001,"lon":-37.80863799908586},{"lat":144.970493,"lon":-37.80764799908587},{"lat":144.968743,"lon":-37.8081579990859},{"lat":144.969196,"lon":-37.80913599908587}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112234</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112234</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112234</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>1027</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>28178</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>54</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle011</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.969196,-37.80913599908587,0 144.9708900000001,-37.80863799908586,0 144.970493,-37.80764799908587,0 144.968743,-37.8081579990859,0 144.969196,-37.80913599908587,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_031622">
+			<name>20604112201</name>
+			<Snippet maxLines="1"><![CDATA[[{"lat":144.961809,"lon":-37.81129899908584},{"lat":144.962257,"lon":-37.81228099908584},{"lat":144.964732,"lon":-37.81156099908586},{"lat":144.964281,"lon":-37.81057399908585},{"lat":144.963331,"lon":-37.80853499908591},{"lat":144.960867,"lon":-37.80924999908584},{"lat":144.961809,"lon":-37.81129899908584}]]]></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Index of Relative Socio-Economic Disadvantage for 20604112201</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SA1 Code</td>
+<td>20604112201</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SA1 7-Digit Code</td>
+<td>2112201</td>
+</tr>
+<tr>
+<td>Score</td>
+<td>953</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rank</td>
+<td>13461</td>
+</tr>
+<tr>
+<td>Decile</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Percentile</td>
+<td>26</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>]]></description>
+			<styleUrl>#PolyStyle03</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+144.961809,-37.81129899908584,0 144.962257,-37.81228099908584,0 144.964732,-37.81156099908586,0 144.964281,-37.81057399908585,0 144.963331,-37.80853499908591,0 144.960867,-37.80924999908584,0 144.961809,-37.81129899908584,0 </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		
+	</Folder>
+</Document>
+</kml>

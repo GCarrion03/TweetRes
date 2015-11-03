@@ -1,0 +1,66 @@
+--Installing couchdb
+sudo apt-get install couchdb -y
+--Get pip
+sudo apt-get install python-pip
+--install tweepy
+pip install tweepy
+--install couchdb python libs
+sudo pip install couchdb
+--Dependences tweet classifier
+sudo pip install twitter-text-python
+sudo pip install -U TextBlob
+sudo pip install tweet_classifier
+--Genderizer
+sudo pip install genderizer
+sudo pip install naiveBayesClassifier
+sudo pip install pyopenssl ndg-httpsclient pyasn1
+sudo pip install python-memcached
+sudo apt-get install git
+--Setup  object store
+sudo apt-get install python-swiftclient
+export OS_PASSWORD="ZDAwNjQxMTJkNzRkNWVh"
+export OS_USERNAME="g.carrionlopez@student.unimelb.edu.au"
+export OS_TENANT_NAME="pt-10738"
+export OS_AUTH_URL=https://keystone.rc.nectar.org.au:5000/v2.0/
+swift stat -v
+--upload all file in a folder
+swift upload Harvestfiletransfer * 
+
+swift download Harvestfiletransfer
+
+chmod 777 start_harvesting.sh
+chmod 777 check_process.sh
+
+sudo service couchdb status
+
+--Remember to set username and passwords to the database
+admin_user = 'user' #Futon admin username
+admin_pass = 'pass'
+
+--Locations
+sudo apt-get install python-matplotlib
+
+sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+
+--install elasticsearch get the file ElasticSearch.sh
+sudo ./ElasticSearch.sh
+--optional get maven and install river at the elasticsearch folder /usr/share/elasticSearch
+sudo bin/plugin install elasticsearch/elasticsearch-river-couchdb/2.6.0
+       --url file:target/releases/elasticsearch-river-couchdb-X.X.X-SNAPSHOT.zip
+
+--Install head
+sudo bin/plugin -install mobz/elasticsearch-head
+--Restart services
+sudo service couchdb restart
+sudo service elasticsearch restart
+
+--Add this to Configuration files elasticsearch.yml and logging.yml. /etc/elasticsearch
+
+http.cors.enabled : true
+ 
+http.cors.allow-origin : "*"
+http.cors.allow-methods : OPTIONS, HEAD, GET, POST, PUT, DELETE
+http.cors.allow-headers : X-Requested-With,X-Auth-Token,Content-Type, Content-Length
+
+--we run river config script
+sudo ./Indexer.sh

@@ -1,0 +1,526 @@
+<!--
+# Exploring sentiment in Melbourne using social media, Census data and geolocation on cloud resources
+# Author: Gustavo Carrion - 667597
+# Index.html: Main App page, includes Google Maps Api,  JQuery, Gridster, Highcharts.
+# This page also includes particular javascript libraries, subdirectory libs/aplication
+-->
+<!DOCTYPE html>
+<html> 
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Exploring Twitter Usage Across Residences of Melbourne</title>
+
+    <link rel="stylesheet" type="text/css" href="css/jquery.gridster.css">
+    <link rel="stylesheet" type="text/css" href="css/demo.css">
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css" >
+    <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap-switch.min.css">
+    <link rel="stylesheet" type="text/css" href="css/daterangepicker/daterangepicker-bs3.css" >
+    <link rel="stylesheet" href="//jqueryui.com/jquery-wp-content/themes/jquery/css/base.css?v=1">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+
+    <!-- Google maps -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=visualization&key=AIzaSyD0Nb0C4SCBA2E5g1jJ1b2rrvt5UtusLmM"></script>
+
+    <script>
+      var map;
+      var mapSA1;
+      var startDate;
+      var endDate;
+
+      //Initialize google maps
+      function initialize() {
+        var mapOptions = {
+          center : {
+            lat : -37.813170025150043,
+            lng : 144.95143993032417
+          }, //Melbourne
+          zoom : 11
+        };
+
+        var featureStyle = {
+            fillColor: '#000000',
+            strokeWeight: 0.8,
+            fillOpacity: 0.2
+          };
+
+        
+        map = new google.maps.Map(document.getElementById('regions_div'), mapOptions);
+        map.data.setStyle(featureStyle);
+        var kmlUrl = 'https://swift.rc.nectar.org.au:8888/v1/AUTH_1a503389d9784c8a9392393eb012221d/kmlfiles/MebourneSA2map.kml?t=19';
+        //var kmlUrl = 'https://swift.rc.nectar.org.au:8888/v1/AUTH_1a503389d9784c8a9392393eb012221d/kmlfiles/Mebourne3000SA1map.kml?t=14';
+        
+        //var kmlUrl = window.location.href+'MebourneSA2map.kml';
+        //alert(kmlUrl);
+        var kmlOptions = {
+          suppressInfoWindows: true,
+          preserveViewport: true,
+          map: map
+        };
+        var kmlLayer = new google.maps.KmlLayer(kmlUrl, kmlOptions);
+        google.maps.event.addListener(kmlLayer, 'click', function(event) { var testimonial = document.getElementById('zoneInfo');
+	        testimonial.innerHTML= event.featureData.infoWindowHtml
+	    	var query = obtainQueryGeo();
+	    	console.log(query);
+	    	var stateCluster = $('input[name="switch-cluster"]').bootstrapSwitch('state');
+	
+	    	//All of this modules depend on the query
+	    	//Generals
+	    	Modules.populateNTweetsLabelGeoLimits(query,event.featureData.snippet);
+	    	Modules.populateTop5TrendsGeoLimits(query,event.featureData.snippet,'#top5-trends-barchart');
+	    	Modules.populateTop5UsersGeoLimits(query,event.featureData.snippet,'#top5-users-barchart');
+	    	Modules.populatePieChartSentimentGeoLimits(query,event.featureData.snippet,'#sentiment-piechart');
+	    	/*Modules.populateHistogramTrendsGeoLimits(query);
+	    	Modules.populateMostProlificTweeterGeoLimits(query);
+	    	Modules.populateMostFollowersGeoLimits(query);
+	    	Modules.populateTweetTimeGeoLimits(query);
+	    	Modules.populateTweetDaySentimentGeoLimits(query);
+	    	Modules.populateLanguageSentimentGeoLimits(query);
+	    	Modules.populateSentimentMapGeoLimits(query);
+	    	Modules.populateGenderSentimentGeoLimits(query);
+	    	Modules.populateLanguageOverallGeoLimits(query);
+	    	Modules.populateActiveTravellerGeoLimits(query);*/
+        });
+        mapOptions = {
+                center : {
+                  lat : -37.81156099908586,
+                  lng : 144.964732
+                }, //Melbourne
+                zoom : 14
+              };
+    	mapSA1 = new google.maps.Map(document.getElementById('regions_divSA1'), mapOptions);
+        mapSA1.data.setStyle(featureStyle);
+        
+        var kmlUrlSA1 = 'https://swift.rc.nectar.org.au:8888/v1/AUTH_1a503389d9784c8a9392393eb012221d/kmlfiles/Mebourne3000SA1map.kml?t=19';
+        var kmlOptionsSA1 = {
+                suppressInfoWindows: true,
+                preserveViewport: true,
+                map: mapSA1
+              };
+        var kmlLayerSA1 = new google.maps.KmlLayer(kmlUrlSA1, kmlOptionsSA1);
+        google.maps.event.addListener(kmlLayerSA1, 'click', function(event) { var testimonial = document.getElementById('zoneInfo');
+        testimonial.innerHTML= event.featureData.infoWindowHtml
+    	var query = obtainQueryGeo();
+    	console.log(query);
+    	var stateCluster = $('input[name="switch-cluster"]').bootstrapSwitch('state');
+
+    	//All of this modules depend on the query
+    	//Generals
+    	Modules.populateNTweetsLabelGeoLimits(query,event.featureData.snippet);
+    	Modules.populateTop5TrendsGeoLimits(query,event.featureData.snippet,'#top5-trends-barchartSA1');
+    	Modules.populateTop5UsersGeoLimits(query,event.featureData.snippet,'#top5-users-barchartSA1');
+    	Modules.populatePieChartSentimentGeoLimits(query,event.featureData.snippet,'#sentiment-piechartSA1');
+    	
+        });
+        
+        //Tab 3 code
+        mapOptions = {
+                center : {
+                  lat : -37.813170025150043,
+                  lng : 144.95143993032417
+                }, //Melbourne
+                zoom : 11
+              };
+
+              var featureStyle = {
+                  fillColor: '#000000',
+                  strokeWeight: 0.8,
+                  fillOpacity: 0.2
+                };
+
+              
+              map = new google.maps.Map(document.getElementById('regions_divFD'), mapOptions);
+              map.data.setStyle(featureStyle);
+              
+              var bounds = {
+            		    north: -37.713170025150043,
+            		    south: -37.913170025150043,
+            		    east: 145.05143993032417,
+            		    west: 144.85143993032417
+            		  };
+
+            		  // Define the rectangle and set its editable property to true.
+            		  rectangle = new google.maps.Rectangle({
+            		    bounds: bounds,
+            		    editable: true,
+            		    draggable: true
+            		  });
+
+            		  rectangle.setMap(map);
+
+            		  // Add an event listener on the rectangle.
+            		  rectangle.addListener('bounds_changed', function(event) { 
+      	    	var query = obtainQueryGeo();
+      	    	console.log(query);
+      	    	var stateCluster = $('input[name="switch-cluster"]').bootstrapSwitch('state');
+      	
+      	    	//All of this modules depend on the query
+      	    	//Generals
+      	    	//"[{"lat":144.9559870000001,"lon":-37.82305299908574},{"lat":144.9613830000001,"lon":-37.8205139990858},{"lat":144.968252,"lon":-37.81922399908577},{"lat":144.96744,"lon":-37.81745299908582},{"lat":144.974867,"lon":-37.81528999908584},{"lat":144.971364,"lon":-37.8077279990859},{"lat":144.959504,"lon":-37.80629299908588},{"lat":144.9559880000001,"lon":-37.80587799908593},{"lat":144.9553930000001,"lon":-37.80948699908587},{"lat":144.956447,"lon":-37.81175499908588},{"lat":144.9514350000001,"lon":-37.81316699908582},{"lat":144.9559870000001,"lon":-37.82305299908574}]"
+      	    	//"[{"lat":-37.913170025150045,"lon":145.05761973989445},{"lat":-37.71317002515004,"lon":145.05761973989445},{"lat":-37.913170025150045,"lon":144.8514399303242},{"lat":-37.71317002515004,"lon":144.8514399303242}]"
+      	    	rectangle_coordinates="[{\"lat\":"+this.bounds["j"].O+",\"lon\":"+this.bounds["O"].O+"},{\"lat\":"+this.bounds["j"].O+",\"lon\":"+this.bounds["O"].j+
+      	    		"},{\"lat\":"+this.bounds["j"].j+",\"lon\":"+this.bounds["O"].j+"},{\"lat\":"+this.bounds["j"].j+",\"lon\":"+this.bounds["O"].O+"}]";
+      	    	Modules.populateNTweetsLabelGeoLimits(query,rectangle_coordinates);
+      	    	Modules.populateTop5TrendsGeoLimits(query,rectangle_coordinates,'#top5-trends-barchartFD');
+      	    	Modules.populateTop5UsersGeoLimits(query,rectangle_coordinates,'#top5-users-barchartFD');
+      	    	Modules.populatePieChartSentimentGeoLimits(query,rectangle_coordinates,'#sentiment-piechartFD');
+      	    	/*Modules.populateHistogramTrendsGeoLimits(query);
+      	    	Modules.populateMostProlificTweeterGeoLimits(query);
+      	    	Modules.populateMostFollowersGeoLimits(query);
+      	    	Modules.populateTweetTimeGeoLimits(query);
+      	    	Modules.populateTweetDaySentimentGeoLimits(query);
+      	    	Modules.populateLanguageSentimentGeoLimits(query);
+      	    	Modules.populateSentimentMapGeoLimits(query);
+      	    	Modules.populateGenderSentimentGeoLimits(query);
+      	    	Modules.populateLanguageOverallGeoLimits(query);
+      	    	Modules.populateActiveTravellerGeoLimits(query);*/
+              });
+      }
+
+
+
+      google.maps.event.addDomListener(window, 'load', initialize);
+
+      google.maps.event.addDomListener(window, "resize", function() {
+
+        var center = map.getCenter();
+        google.maps.event.trigger(map, "resize");
+        map.setCenter(center);
+
+      });
+
+      //Color scale for the positive heatmap
+      gradient1 = ['rgba(0, 255, 255, 0)', 'rgba(0, 255, 255, 1)', 'rgba(0, 225, 255, 1)', 'rgba(0, 200, 255, 1)', 'rgba(0, 175, 255, 1)', 'rgba(0, 160, 255, 1)', 'rgba(0, 145, 223, 1)', 'rgba(0, 125, 191, 1)', 'rgba(0, 110, 255, 1)', 'rgba(0, 100, 255, 1)', 'rgba(0, 75, 255, 1)', 'rgba(0, 50, 255, 1)', 'rgba(0, 25, 255, 1)', 'rgba(0, 0, 255, 1)'];
+      //Color scale for the negative heatmap
+      gradient2 = ['rgba(255, 255, 0, 0)', 'rgba(255, 255, 0, 1)', 'rgba(255, 225, 0, 1)', 'rgba(255, 200, 0, 1)', 'rgba(255, 175, 0, 1)', 'rgba(255, 160, 0, 1)', 'rgba(255, 145, 0, 1)', 'rgba(255, 125, 0, 1)', 'rgba(255, 110, 0, 1)', 'rgba(255, 100, 0, 1)', 'rgba(255, 75, 0, 1)', 'rgba(255, 50, 0, 1)', 'rgba(255, 25, 0, 1)', 'rgba(255, 0, 0, 1)'];
+
+      // For hierarchical clustering calculate the number
+      // of unique documents contained in this and sub-clusters, helper function for the cluster analysis
+      function calculateUniqueDocumentsCount(cluster) {
+        var uniqueIds = {};
+        if (cluster.documents) {
+          cluster.documents.forEach(function(id) {
+            uniqueIds[id] = true;
+          });
+        }
+
+        if (cluster.clusters) {
+          cluster.clusters.forEach(function(subcluster) {
+            for (var key in calculateUniqueDocumentsCount(subcluster)) {
+              uniqueIds[key] = true;
+            };
+          });
+        }
+        cluster.uniqueDocumentsCount = Object.keys(uniqueIds).length;
+        return uniqueIds;
+      }
+    </script>
+  </head>
+
+  <body style="background-color: #f9f9f9;">
+
+    <div class="navbar navbar-inverse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" rel="home" href="<?= base_url();?>" title="Buy Sell Rent Everyting">Dashboard</a>
+      </div>
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <div class="col-sm-6 col-md-6" style="margin-top: 6px;">
+
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Search for a topic: i.e AFL Grand final" id="query" name="query" value="">
+          <div class="input-group-btn">
+            <button class="btn btn-success" id="btn-search">
+              <span class="glyphicon glyphicon-search"></span>
+            </button>
+          </div>
+        </div>
+        </div>
+        <label class="hits-label" id="NTweetsFound"></label>
+        <ul class="collapse navbar-collapse navbar-ex1-collapse navbar-right">
+          <div id="date-picker" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc;margin-top: 7px;">
+            <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
+            <span></span><b class="caret"></b>
+          </div>
+        </ul>
+      </div>
+    </div>
+
+    <!--  div class="title-container">
+      <div style="width: 60%;"><h1 class="entry-title">Exploring Twitter Usage Across Residences of Melbourne</h1></div>
+      <div class="pull-right"><label>Cluster of Trends:</label>&nbsp;<input type="checkbox" name="switch-cluster" data-size="mini"></div>
+    </div-->
+
+    <div id="tabs">
+      
+      <ul>
+        <li> <a href="#fragment-1"><span>General Information</span></a> </li> 
+        <li> <a href="#fragment-2"><span>Opinion by area</span></a> </li> 
+        <li> <a href="#fragment-3"><span>Opinion by zone</span></a> </li>  
+      </ul>
+
+      <div id="fragment-1">
+        <div id="wrapper">
+            <div class="row">
+              <div class="gridster ready" id="tab-1">
+                <ul style="width: 100%; position: relative;">
+                  <li data-row="1" data-col="1" data-sizex="6" data-sizey="3" class="gs-w">
+                    <header>
+                      Map
+                    </header>
+                    <!-- div class="box-body no-padding">
+                      <button id="btn-togglePositive">
+                        Toggle Positive Tweets
+                      </button>
+                      <button id="btn-toggleNegative">
+                        Toggle Negative Tweets
+                      </button>
+                    </div-->
+                    <div class="box-body no-padding">
+                      <div id="regions_div" style="width:100%;height: 450px;"></div>
+                      <div>
+                        <label id="info-box" class="text-muted pull-left"></label>
+                      </div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="2" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Information
+                    </header>
+                    <div class="table-container" id="zoneInfo">
+                      <table class="table-info">
+                        <tbody>
+                        </tbody>
+                      </table>
+                    </div>
+                  </li>
+                  <li data-row="2" data-col="2" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="top5-trends-barchart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  
+                  <li data-row="3" data-col="1" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="top5-users-barchart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="3" data-col="2" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Pie Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="sentiment-piechart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="4" data-col="1" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="prolific-barchart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="4" data-col="2" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="follower-barchart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="5" data-col="1" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="gender-barchart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  
+                  <li data-row="5" data-col="1" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="histogram-trends-barchart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  
+                  <li data-row="6" data-col="1" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Pie Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="tweettime-piechart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="6" data-col="2" data-sizex="3" data-sizey="3" class="gs-w">
+                    <header>
+                      Pie Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="tweetweek-piechart" style="height: 470px; width: 100%;"></div>
+                    </div>
+                  </li>
+                 
+                </ul>
+              </div>
+            </div>
+        </div>
+      </div>
+
+      <div id="fragment-2">
+          <div class="row" >
+            <div class="gridster ready" id="tab-2">
+              <ul style="width: 100%; position: relative;">                  
+                 <li data-row="1" data-col="1" data-sizex="2" data-sizey="3" class="gs-w">
+                    <div class="box-body no-padding">
+                      <div id="regions_divSA1" style="width:100%;height: 450px;"></div>
+                      <div>
+                        <label id="info-box" class="text-muted pull-left"></label>
+                      </div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="3" data-sizex="1" data-sizey="2" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="top5-trends-barchartSA1" style="height: 430px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="4" data-sizex="1" data-sizey="2" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="top5-users-barchartSA1" style="height: 430px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="5" data-sizex="2" data-sizey="2" class="gs-w">
+                    <header>
+                      Pie Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="sentiment-piechartSA1" style="height: 430px; width: 100%;"></div>
+                    </div>
+                  </li>
+                </ul>
+            </div>
+          </div>
+      </div>
+
+       <div id="fragment-3">
+          <div class="row" >
+            <div class="gridster ready" id="tab-3">
+              <ul style="width: 100%; position: relative;">                  
+                 <li data-row="1" data-col="1" data-sizex="2" data-sizey="3" class="gs-w">
+                    <div class="box-body no-padding">
+                      <div id="regions_divFD" style="width:100%;height: 450px;"></div>
+                      <div>
+                        <label id="info-box" class="text-muted pull-left"></label>
+                      </div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="3" data-sizex="1" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="top5-trends-barchartFD" style="height: 430px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="4" data-sizex="1" data-sizey="3" class="gs-w">
+                    <header>
+                      Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="top5-users-barchartFD" style="height: 430px; width: 100%;"></div>
+                    </div>
+                  </li>
+                  <li data-row="1" data-col="5" data-sizex="2" data-sizey="3" class="gs-w">
+                    <header>
+                      Pie Chart
+                    </header>
+                    <div class="box-body">
+                      <div class="full-width-chart" id="sentiment-piechartFD" style="height: 430px; width: 100%;"></div>
+                    </div>
+                  </li>
+                </ul>
+            </div>
+          </div>
+      </div>
+    </div>
+
+
+    <script src="libs/jquery/jquery.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/jqueryui/jquery-ui.min.js"  type="text/javascript" charset="utf-8"></script>
+
+    <script src="libs/application/main.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/application/modules.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/application/qbuilder.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/highcharts/highcharts.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/highcharts/heatmap.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/highcharts/treemap.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/carrotsearch/carrotsearch.foamtree.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/highcharts/modules/exporting.js"  type="text/javascript" charset="utf-8"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="libs/bootstrap/bootstrap.min.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/bootstrap/bootstrap-switch.min.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/gridster/jquery.gridster.js" type="text/javascript" charset="utf-8"></script>
+    <script src="libs/daterangepicker/moment.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/daterangepicker/daterangepicker.js"  type="text/javascript" charset="utf-8"></script>
+    <script src="libs/application/helper.js"  type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+      var gridster =[];
+
+      $(function() {
+
+        gridster[0] = $("#tab-1 ul").gridster({namespace: '#tab-1', widget_base_dimensions : [150, 170], widget_margins : [5, 5], autogrow_cols : true, resize : {enabled : true }, draggable : {handle : 'header'} }).data('gridster');
+
+        gridster[1] = $("#tab-2 ul").gridster({namespace: '#tab-2', widget_base_dimensions : [200, 140], widget_margins : [5, 5], autogrow_cols : true, resize : {enabled : false }, min_cols: 8, draggable : {handle : 'header'} }).data('gridster');
+
+        gridster[2] = $("#tab-3 ul").gridster({namespace: '#tab-3', widget_base_dimensions : [200, 140], widget_margins : [5, 5], autogrow_cols : true, resize : {enabled : false }, min_cols: 8, draggable : {handle : 'header'} }).data('gridster');
+
+        gridster[3] = $("#tab-4 ul").gridster({namespace: '#tab-4', widget_base_dimensions : [150, 170], widget_margins : [5, 5], autogrow_cols : true, resize : {enabled : true }, draggable : {handle : 'header'} }).data('gridster');
+
+        gridster[4] = $("#tab-5 ul").gridster({namespace: '#tab-5', widget_base_dimensions : [150, 170], widget_margins : [5, 5], autogrow_cols : true, resize : {enabled : false }, draggable : {handle : 'header'} }).data('gridster');
+
+        gridster[5] = $("#tab-6 ul").gridster({namespace: '#tab-6', widget_base_dimensions : [150, 170], widget_margins : [5, 5], autogrow_cols : true, resize : {enabled : false }, draggable : {handle : 'header'} }).data('gridster');
+
+      });
+
+    </script>
+    <script>
+      $("#tabs").tabs({
+        activate : function(event, ui) {
+          $(window).trigger('resize');
+          var center = map.getCenter();
+          google.maps.event.trigger(map, "resize");
+          map.setCenter(center);
+          var centerSA1 = mapSA1.getCenter();
+          google.maps.event.trigger(mapSA1, "resize");
+          mapSA1.setCenter(centerSA1);
+        }
+      });
+    </script>
+  </body>
+</html>
